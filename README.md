@@ -2,6 +2,7 @@
 <h1 align="center">Hi there I'm Ahmed 👋</h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/ahmmohfat18/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.facebook.com/ahmmohfat18/"><img src="https://img.shields.io/badge/facebook-%230177B5?style=flat&logo=facebook&logoColor=white"/></a>
 </p>
 
 
