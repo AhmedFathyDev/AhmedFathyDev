@@ -4,7 +4,6 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/ahmmohfat18/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.facebook.com/ahmmohfat18/"><img src="https://img.shields.io/badge/Facebook-3b5998?style=flat&logo=facebook&logoColor=white"/></a>
-    <a href="https://dev.to/ahmmohfat18"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
 </p>
 
 ![Visitors](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/ahmmohfat18)
