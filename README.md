@@ -28,6 +28,9 @@ I am an undergraduate Computer Science student, good in Algorithms, Data Structu
 
 ## Coding Activity
 
-![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=ahmmohfat18&show_icons=true&hide_border=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmmohfat18&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmmohfat18&show_icons=true&hide_border=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmmohfat18&layout=compact" />
+</a>
