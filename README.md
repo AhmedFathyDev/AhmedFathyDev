@@ -12,4 +12,4 @@ I am an undergraduate Computer Science student, good in Algorithms, Data Structu
 
 ![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=ahmmohfat18&show_icons=true&hide=prs,issues,contribs&show_owner=true&include_all_commits=true&V=2)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmmohfat18&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmmohfat18&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
