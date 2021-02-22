@@ -7,7 +7,7 @@
     <a href="https://www.facebook.com/ahmmohfat18/"><img src="https://img.shields.io/badge/Facebook-3b5998?style=flat&logo=facebook&logoColor=white"/></a>
 </p>
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/ahmmohfat18)
+ ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/ahmmohfat18)
 
 I am an undergraduate Computer Science student, good in Algorithms, Data Structures, Object-Oriented Programming, and Problem Solving skills. Quick learner, self-motivated, and social. I hope to work in the Embedded Systems industry, and I hope to work in automotive companies as an Embedded Software Engineer.
 
