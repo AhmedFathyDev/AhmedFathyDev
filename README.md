@@ -34,3 +34,16 @@ I am an undergraduate Computer Science student, good in Algorithms, Data Structu
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmmohfat18&layout=compact" />
 </a>
+
+<div align="center">
+	<br>
+	<br>
+	<br>
+	<br>
+	<img src="https://github.com/ahmmohfat18/ahmmohfat18/blob/main/GitHub.gif" width="40" height="40">
+	<p>Loading</p>
+	<br>
+	<br>
+	<br>
+	<br>
+</div>
