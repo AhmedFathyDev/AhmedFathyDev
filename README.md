@@ -40,7 +40,7 @@ I am an undergraduate Computer Science student, good in Algorithms, Data Structu
 	<br>
 	<br>
 	<br>
-	<img src="https://github.com/ahmmohfat18/ahmmohfat18/blob/main/GitHub.gif" width="40" height="40">
+	<img src="GitHub.gif" width="75" height="75">
 	<p>Loading</p>
 	<br>
 	<br>
