@@ -39,8 +39,6 @@ I am an undergraduate Computer Science student, good in Algorithms, Data Structu
 	<br>
 	<br>
 	<br>
-	<br>
 	<img src="GitHub.gif" width="100" height="100">
 	<p>Loading</p>
-	<br>
 </div>
