@@ -21,7 +21,7 @@ I am an undergraduate Computer Science student, good in Algorithms, Data Structu
 
 - ⚡ **Fun fact**: I love Cars(🏎), Flowers(🌼), Codeing(💻), Full Moon(🌝), Crescent Moon(🌙), Traveling(🌍), Grapes(🍇), and Photography(📷).
 
-- 😄 **Pronouns**: **Fathy**
+- 😄 **Pronouns**: Fathy
  
 ## Languages and Tools   
 
