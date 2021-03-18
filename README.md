@@ -9,6 +9,20 @@
 
 I am an undergraduate Computer Science student, good in Algorithms, Data Structures, Object-Oriented Programming, and Problem Solving skills. Quick learner, self-motivated, and social. I hope to work in the Embedded Systems industry, and I hope to work in automotive companies as an Embedded Software Engineer.
 
+- 🎯 **I’m currently focusing on**: [Problem-Solving](https://github.com/ahmmohfat18/HackerRank) and [Data Structures](https://github.com/ahmmohfat18/Data-Structures), ⭐️ star the projects if you like it 🤩.
+
+- 🌱 **I’m currently learning**: Software Engineering, Data Structures, C, and CompTIA Linux+.
+
+- 💬 **Ask me about**: C, C++, C#, Java, JavaScript, SQL, Bash, Algorithms, Data Structures, Object-Oriented Programming, Problem Solving, Linux(Ubuntu, Red Hat, CentOS, and Kali), Cloud Computing, and Virtualization.
+
+- 🤔 **I’m currently open for**: A new job opportunity, [LINK TO MY RESUME](https://docs.google.com/document/d/1aViqr-mCS3lBcvyscXtgdg5zOcm2E1FCjkO7qCXb-5Q/edit?usp=sharing).
+
+- 📫 **How to reach me**: catch, and follow me from the above links 👆, in addition to follow me here.
+
+- ⚡ **Fun fact**: I love Cars(🏎), Flowers(🌼), Codeing(💻), Full Moon(🌝), Crescent Moon(🌙), Traveling(🌍), Grapes(🍇), and Photography(📷).
+
+- 😄 **Pronouns**: **Fathy**
+ 
 ## Languages and Tools   
 
 <code><img title="C" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
