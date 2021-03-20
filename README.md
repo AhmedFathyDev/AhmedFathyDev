@@ -11,7 +11,7 @@ I am an undergraduate Computer Science student, good in Algorithms, Data Structu
 
 - 🎯 **I’m currently focusing on**: [Problem-Solving](https://github.com/ahmmohfat18/HackerRank) and [Data Structures](https://github.com/ahmmohfat18/Data-Structures), ⭐️ star the projects if you like it 🤩.
 
-- 🌱 **I’m currently learning**: Software Engineering, Data Structures, C, and CompTIA Linux+.
+- 🌱 **I’m currently learning**: Software Engineering, and CompTIA Linux+.
 
 - 💬 **Ask me about**: C, C++, C#, Java, JavaScript, SQL, Bash, Algorithms, Data Structures, Object-Oriented Programming, Problem Solving, Linux(Ubuntu, Red Hat, CentOS, and Kali), Cloud Computing, and Virtualization.
 
