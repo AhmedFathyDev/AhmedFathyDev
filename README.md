@@ -1,5 +1,8 @@
 
-<h1 align="center">Hi there I'm Ahmed 👋</h1>
+<div align="center">
+	<img src="GitHub.png" width="100" height="100">
+  <h1>Hi there I'm Ahmed 👋</h1>
+</div>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/ahmmohfat18/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
