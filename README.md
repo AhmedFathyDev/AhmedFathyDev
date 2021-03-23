@@ -1,6 +1,6 @@
 
 <div align="center">
-	<img src="GitHub.png" width="100" height="100">
+	<img src="GitHub.png" width="200" height="200">
   <h1>Hi there I'm Ahmed 👋</h1>
 </div>
 
