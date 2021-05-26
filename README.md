@@ -20,7 +20,7 @@ I am a BSc student in Computer Science, good in Algorithms, Data Structures, Obj
 
 - 📫 **How to reach me**: catch, and follow me from the above links 👆, in addition to follow me here.
 
-- ⚡ **Fun fact**: I love Cars(🚗), Codeing(💻), Crescent Moon(🌙), Traveling(🌍), Grapes(🍇), and Photography(📷).
+- ⚡ **Fun fact**: I love Cars(🚗), Codeing(💻), Crescent(🌙), Traveling(🌍), Grapes(🍇), and Photography(📷).
 
 - 😄 **Pronouns**: Fathy
 
