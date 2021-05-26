@@ -3,8 +3,8 @@
 	<img src="GitHub.png" width="200" height="200">
   <h1>Hi there I'm Ahmed 👋</h1>
   <p>
-    <a href="https://www.linkedin.com/in/ahmmohfat18/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href="https://dev.to/ahmmohfat18" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/ahmmohfat18/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://dev.to/ahmmohfat18" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white"/></a>
   </p>
 </div>
 
