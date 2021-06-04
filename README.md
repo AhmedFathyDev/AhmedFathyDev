@@ -16,7 +16,7 @@ I am a BSc student in Computer Science, good in Algorithms, Data Structures, Obj
 
 - 💬 **Ask me about**: C, C++, C#, Java, JavaScript, SQL, Bash, Algorithms, Data Structures, Object-Oriented Programming, Problem Solving, Linux(Ubuntu, Red Hat, CentOS, and Kali), Chrome OS, Cloud Computing, and Virtualization.
 
-- 🤔 **I’m currently open for**: A new job opportunity, [LINK TO MY RESUME](https://docs.google.com/document/d/1aViqr-mCS3lBcvyscXtgdg5zOcm2E1FCjkO7qCXb-5Q/edit?usp=sharing).
+- 🤔 **I’m currently open for**: A new job opportunity, [LINK TO MY RESUME](https://flowcv.io/resume/feedback/lMhKFXfgJjf8).
 
 - 📫 **How to reach me**: catch, and follow me from the above links 👆, in addition to follow me here.
 
