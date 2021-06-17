@@ -14,7 +14,7 @@ I am a computer science student, good in Algorithms, Data Structures, Object-Ori
 
 - 🌱 **I’m currently learning**: Software Engineering and Operating Systems.
 
-- 💬 **Ask me about**: C, C++, C#, Java, JavaScript, SQL, Bash, Algorithms, Data Structures, Object-Oriented Programming, Problem Solving, Linux(Ubuntu, Red Hat, CentOS, and Kali), Chrome OS, Cloud Computing, and Virtualization.
+- 💬 **Ask me about**: C, C++, C#, Python, Java, JavaScript, SQL, Bash, XML, Algorithms, Data Structures, Object-Oriented Programming, Problem Solving, Linux(Ubuntu, Red Hat, CentOS, and Kali), Chrome OS, Cloud Computing, and Virtualization.
 
 - 🤔 **I’m currently open for**: A new job opportunity, [LINK TO MY RESUME](https://flowcv.io/resume/feedback/lMhKFXfgJjf8).
 
