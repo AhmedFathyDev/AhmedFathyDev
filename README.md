@@ -8,7 +8,7 @@
   </p>
 </div>
 
-I am a computer science student, good in Algorithms, Data Structures, Object-Oriented Programming, and Problem Solving skills. Quick learner, self-motivated, and social.
+Senior Computer Science Student, good in Algorithms, Data Structures, Object-Oriented Programming, and Problem Solving skills. Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Quick learner, self-motivated, and social.
 
 - 🎯 **I’m currently focusing on**: [Problem-Solving](https://github.com/ahmmohfat18/Problem-Solving) and [Data Structures](https://github.com/ahmmohfat18/Data-Structures), ⭐️ star the projects if you like it 🤩.
 
