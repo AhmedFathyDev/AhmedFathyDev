@@ -10,7 +10,7 @@
 
 Senior Computer Science Student, good in Algorithms, Data Structures, Object-Oriented Programming, and Problem Solving skills. Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Quick learner, self-motivated, and social.
 
-- 🎯 **I’m currently focusing on**: [Problem-Solving](https://github.com/ahmedfathydev/Problem-Solving) and [Data Structures](https://github.com/ahmedfathydev/Data-Structures), ⭐️ star the projects if you like it 🤩.
+- 🎯 **I’m currently focusing on**: [Problem-Solving](https://github.com/ahmedfathydev/Problem-Solving), ⭐️ star the projects if you like it 🤩.
 
 - 🌱 **I’m currently learning**: Software Engineering and Operating Systems.
 
