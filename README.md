@@ -10,7 +10,7 @@
 
 Senior Computer Science Student, good in Algorithms, Data Structures, Object-Oriented Programming, and Problem Solving skills. Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Quick learner, self-motivated, and social.
 
-- 🎯 **I’m currently focusing on**: [Problem-Solving](https://github.com/ahmmohfat18/Problem-Solving) and [Data Structures](https://github.com/ahmmohfat18/Data-Structures), ⭐️ star the projects if you like it 🤩.
+- 🎯 **I’m currently focusing on**: [Problem-Solving](https://github.com/ahmedfathydev/Problem-Solving) and [Data Structures](https://github.com/ahmedfathydev/Data-Structures), ⭐️ star the projects if you like it 🤩.
 
 - 🌱 **I’m currently learning**: Software Engineering and Operating Systems.
 
@@ -30,10 +30,10 @@ Senior Computer Science Student, good in Algorithms, Data Structures, Object-Ori
 **NOTE**: *Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.*
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmmohfat18&count_private=true&show_icons=true&theme=radical&hide_border=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedfathydev&count_private=true&show_icons=true&theme=radical&hide_border=false" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmmohfat18&layout=compact&theme=radical&hide_border=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfathydev&layout=compact&theme=radical&hide_border=false" />
 </a>
 
 <div align="center">
