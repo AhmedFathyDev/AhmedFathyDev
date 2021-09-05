@@ -29,10 +29,10 @@
 **NOTE**: *Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.*
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedfathydev&count_private=true&show_icons=true&theme=radical&hide_border=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ahmedfathydev&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfathydev&layout=compact&theme=radical&hide_border=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfathydev&layout=compact&theme=radical" />
 </a>
 
 <div align="center">
