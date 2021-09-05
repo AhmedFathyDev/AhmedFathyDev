@@ -11,7 +11,7 @@
 
 - 🎯 **I’m currently focusing on**: [Problem-Solving](https://github.com/ahmedfathydev/Problem-Solving), ⭐️ star the projects if you like it 🤩.
 
-- 🌱 **I’m currently learning**: Software Engineering and Operating Systems.
+- 🌱 **I’m currently learning**: Software Engineering and Computer Science.
 
 - 💬 **Ask me about**: C, C++, C#, Python, Java, JavaScript, SQL, Bash, XML, Algorithms, Data Structures, Object-Oriented Programming, Problem Solving, Linux(Ubuntu, Red Hat, CentOS, and Kali), Chrome OS, Cloud Computing, and Virtualization.
 
