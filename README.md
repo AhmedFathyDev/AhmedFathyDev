@@ -3,10 +3,8 @@
 	<img src="GitHub.png" width="200" height="200">
   <h1>Hi there I'm Ahmed 👋</h1>
   <p class="contact">
-    <i class="fab fa-linkedin"></i>
-    <a href="https://www.linkedin.com/in/ahmedfathydev/" target="_blank">Ahmed Fathy</a>
-    <i class="fab fa-telegram"></i>
-    <a href="https://t.me/ahmedfathydev" target="_blank">Ahmed Fathy</a>
+    <a href="https://www.linkedin.com/in/ahmedfathydev/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077b5?style=flat&logo=linkedin"/></a>
+    <a href="https://t.me/ahmedfathydev" target="_blank"><img src="https://img.shields.io/badge/telegram-0088cc?style=flat&logo=telegram"/></a>
   </p>
 </div>
 
