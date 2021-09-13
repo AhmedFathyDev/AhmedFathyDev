@@ -8,14 +8,22 @@
   </p>
 </div>
 
+
 **Senior Computer Science Student, good in Algorithms, Data Structures, Object-Oriented Programming, and Problem Solving skills. Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Quick learner, self-motivated, and social.**
 
+
 - 🌱 **I’m currently learning**: Software Engineering and Computer Science.
+
 - 🎯 **I’m currently focusing on**: [Problem-Solving](https://github.com/ahmedfathydev/Problem-Solving), ⭐️ star the projects if you like it 🤩.
+
 - 🤔 **I’m currently open for**: A new job opportunity, [LINK TO MY RESUME](https://flowcv.io/resume/feedback/lMhKFXfgJjf8).
+
 - 💬 **Ask me about anything [here](https://github.com/ahmedfathydev/ahmedfathydev/issues).**
+
 - 📫 **How to reach me**: catch, and follow me from the above links 👆, in addition to follow me here.
+
 - 😄 **Fun fact**: I love Cars(🚗), Codeing(💻), Traveling(🌍), and Photography(📷).
+
 
 ## Coding Activity
 
