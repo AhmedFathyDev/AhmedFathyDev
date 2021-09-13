@@ -10,7 +10,7 @@
 </div>
 
 
-**Senior Computer Science Student, good in Algorithms, Data Structures, Object-Oriented Programming, and Problem Solving skills. Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Quick learner, self-motivated, and social.**
+**Senior Computer Science Student, good in Algorithms, Data Structures, Object-Oriented Programming, and Problem Solving skills. Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.**
 
 
 - 🌱 **I’m currently learning**: Software Engineering and Computer Science.
