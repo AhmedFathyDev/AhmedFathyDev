@@ -3,9 +3,9 @@
 	<img src="GitHub.png" width="200" height="200">
   <h1>Hi there I'm Ahmed 👋</h1>
   <p class="contact">
-    <a href="https://www.linkedin.com/in/ahmedfathydev/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077b5?style=flat&logo=linkedin"/></a>
-    <a href="https://stackoverflow.com/users/11837259/ahmed-fathy" target="_blank"><img src="https://img.shields.io/badge/stackoverflow-f48024?style=flat&logo=stackoverflow&logoColor=white"/></a>
-    <a href="https://t.me/ahmedfathydev" target="_blank"><img src="https://img.shields.io/badge/telegram-0088cc?style=flat&logo=telegram"/></a>
+    <a href="https://www.linkedin.com/in/ahmedfathydev/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin"/></a>
+    <a href="https://stackoverflow.com/users/11837259/ahmed-fathy" target="_blank"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white"/></a>
+    <a href="https://t.me/ahmedfathydev" target="_blank"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram"/></a>
   </p>
 </div>
 
