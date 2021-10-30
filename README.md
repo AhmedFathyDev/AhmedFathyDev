@@ -9,8 +9,7 @@
   </p>
 </div>
 
-
-**Senior Computer Science Student, good in Algorithms, Data Structures, Object-Oriented Programming, and Problem Solving skills. Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.**
+<p class="about"><b>Senior Computer Science Student, good in Algorithms, Data Structures, Object-Oriented Programming, and Problem Solving skills. Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.</b></p>
 
 
 - 🌱 **I’m currently learning**: Software Engineering and Computer Science.
@@ -26,9 +25,9 @@
 - 😄 **Fun fact**: I love Cars(🚗), Codeing(💻), Traveling(🌍), and Photography(📷).
 
 
-## Coding Activity
+<h2>Coding Activity</h2>
 
-**NOTE**: *Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.*
+<p><b>NOTE</b>: <em>Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.</em></p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ahmedfathydev&show_icons=true&include_all_commits=true&theme=radical" />
@@ -42,5 +41,5 @@
 	<br>
 	<br>
 	<img src="GitHub.gif" width="100" height="100">
-	<p>Loading</p>
+	<h6>Loading</h6>
 </div>
