@@ -11,35 +11,32 @@
 
 <p class="about"><b>Senior Computer Science Student, good in Algorithms, Data Structures, Object-Oriented Programming, and Problem Solving skills. Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.</b></p>
 
-
-- 🌱 **I’m currently learning**: Software Engineering and Computer Science.
-
-- 🎯 **I’m currently focusing on**: [Problem-Solving](https://github.com/ahmedfathydev/Problem-Solving), ⭐️ star the projects if you like it 🤩.
-
-- 🤔 **I’m currently open for**: A new job opportunity, [LINK TO MY RESUME](https://flowcv.io/resume/feedback/lMhKFXfgJjf8).
-
-- 💬 **Ask me about anything [here](https://github.com/ahmedfathydev/ahmedfathydev/issues).**
-
-- 📫 **How to reach me**: catch, and follow me from the above links 👆, in addition to follow me here.
-
-- 😄 **Fun fact**: I love Cars(🚗), Codeing(💻), Traveling(🌍), and Photography(📷).
-
+<ul>
+  <li>🌱 <b>I’m currently learning</b>: Software Engineering and Computer Science.</li>
+  <li>🎯 <b>I’m currently focusing on</b>: <a href="https://github.com/ahmedfathydev/Problem-Solving">Problem-Solving</a>, ⭐️ star the projects if you like it 🤩.</li>
+  <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://flowcv.io/resume/feedback/lMhKFXfgJjf8">LINK TO MY RESUME</a>.</li>
+  <li>💬 <b>Ask me about anything <a href="https://github.com/ahmedfathydev/ahmedfathydev/issues">here</a>.</b><li>
+  <li>📫 <b>How to reach me</b>: catch, and follow me from the above links 👆, in addition to follow me here.</li>
+  <li>😄 <b>Fun fact</b>: I love Cars(🚗), Codeing(💻), Traveling(🌍), and Photography(📷).</li>
+<ul>
 
 <h2>Coding Activity</h2>
 
 <p><b>NOTE</b>: <em>Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.</em></p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ahmedfathydev&show_icons=true&include_all_commits=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfathydev&layout=compact&theme=radical" />
-</a>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/?username=ahmedfathydev&show_icons=true&include_all_commits=true&theme=radical" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfathydev&layout=compact&theme=radical" />
+  </a>
+</div>
 
 <div align="center">
 	<br>
 	<br>
 	<br>
 	<img src="GitHub.gif" width="100" height="100">
-	<h6>Loading</h6>
+	<p>Loading</p>
 </div>
