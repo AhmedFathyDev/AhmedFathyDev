@@ -1,6 +1,6 @@
 
 <div align="center">
-	<img src="GitHub.png" width="200" height="200">
+	<img src="GitHub.png" alt="GitHub octocat drinking a cup of coffee" width="200" height="200">
   <h1>Hi there I'm Ahmed 👋</h1>
   <p class="contact">
     <a href="https://www.linkedin.com/in/ahmedfathydev/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin"/></a>
@@ -37,6 +37,6 @@
 	<br>
 	<br>
 	<br>
-	<img src="GitHub.gif" width="100" height="100">
+	<img src="GitHub.gif" alt="GitHub octocat logo" width="100" height="100">
 	<p>Loading</p>
 </div>
