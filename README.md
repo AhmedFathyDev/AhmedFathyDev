@@ -29,7 +29,7 @@
     <img align="left" width="400" src="https://github-readme-stats.vercel.app/api/?username=ahmedfathydev&show_icons=true&include_all_commits=true&theme=radical" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfathydev&layout=compact&theme=radical" />
+    <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfathydev&layout=compact&theme=radical" />
   </a>
 </div>
 
