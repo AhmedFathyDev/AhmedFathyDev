@@ -1,7 +1,7 @@
 
 <div align="center">
 	<img src="GitHub.png" alt="GitHub octocat drinking a cup of coffee" width="200" height="200">
-  <h1>Hi there I'm Ahmed 👋</h1>
+  <h1>Hi there I'm Fathy 👋</h1>
   <p class="contact">
     <a href="https://www.linkedin.com/in/ahmedfathydev/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin"/></a>
     <a href="https://stackoverflow.com/users/11837259/ahmed-fathy" target="_blank"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white"/></a>
