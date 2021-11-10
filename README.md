@@ -22,8 +22,9 @@
 
 <h2>Coding Activity</h2>
 
+<p><b>NOTE</b>: <em>Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.</em></p>
+
 <div>
-  <p><b>NOTE</b>: <em>Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.</em></p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" width="400" src="https://github-readme-stats.vercel.app/api/?username=ahmedfathydev&show_icons=true&include_all_commits=true&theme=radical" />
   </a>
