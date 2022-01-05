@@ -8,7 +8,7 @@
   </p>
 </div>
 <div align="left">
-  <p class="about"><b>Senior Computer Science Student, good in Algorithms, Data Structures, Object-Oriented Programming, and Problem Solving skills. Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.</b></p>
+  <p class="about"><b>Senior Computer Science Student, Back-End Developer, and Open-Source Enthusiast, good in Algorithms, Data Structures, Object-Oriented Programming, and Problem Solving skills. Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.</b></p>
   <ul>
     <li>🌱 <b>I’m currently learning</b>: Software Engineering and Computer Science.</li>
     <li>🎯 <b>I’m currently focusing on</b>: <a href="https://github.com/ahmedfathydev/Problem-Solving">Problem-Solving</a>, ⭐️ star the projects if you like it 🤩.</li>
