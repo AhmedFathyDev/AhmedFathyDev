@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Ahmed Fathy 👨‍💻</title>
-  </head>
   <body>
     <div align="center">
       <img src="GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
