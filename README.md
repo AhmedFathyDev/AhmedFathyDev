@@ -1,6 +1,6 @@
 
 <div align="center">
-	<img src="GitHub.png" alt="GitHub octocat drinking a cup of coffee" width="200" height="200">
+	<img src="GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
   <h1>Hi there I'm Fathy 👋</h1>
   <p class="contact">
     <a href="https://www.linkedin.com/in/ahmedfathydev/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin"/></a>
@@ -20,23 +20,17 @@
   <li>😄 <b>Fun fact</b>: I love Cars(🚗), Codeing(💻), Traveling(🌍), and Photography(📷).</li>
 <ul>
 
-<h2>Coding Activity</h2>
-
-<p><b>NOTE</b>: <em>Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.</em></p>
-
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" width="418" src="https://github-readme-stats.vercel.app/api/?username=ahmedfathydev&show_icons=true&include_all_commits=true&theme=radical" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfathydev&layout=compact&theme=radical" />
-  </a>
-</div>
-
 <div align="center">
+  <br>
+  <br>
+  <h2>Coding Activity</h2>
+  <br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="GitHub Coding Activity" height="200" src="https://github-readme-stats.vercel.app/api/?username=ahmedfathydev&show_icons=true&include_all_commits=true&theme=radical" />
+  </a>
+  <br>
 	<br>
 	<br>
-	<br>
-	<img src="GitHub.gif" alt="GitHub octocat logo" width="100" height="100">
+	<img src="GitHub.gif" alt="GitHub Octocat Logo" height="100">
 	<p>Loading</p>
 </div>
