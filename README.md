@@ -5,15 +5,13 @@
         <a href="https://www.linkedin.com/in/ahmedfathydev/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
         <a href="https://stackoverflow.com/users/11837259/ahmed-fathy"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
         <a href="https://t.me/ahmedfathydev"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
+        <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580748673863680"><img src="https://img.shields.io/badge/UpWork-494949?style=flat&logo=upwork" alt="UpWork" /></a>
     </p>
 </div>
 <div align="left">
     <p class="about">
         <b>
-            Senior Computer Science Student, Back-End Developer, and Open-Source Enthusiast, good in Algorithms, Data
-            Structures, Object-Oriented Programming, and Problem Solving skills. Detailed-oriented, responsible, and
-            committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner,
-            self-motivated, and social.
+            Senior Computer Science Student, Back-End Developer, Freelancer, and Open-Source Enthusiast, good in Algorithms, Data Structures, Object-Oriented Programming, and Problem Solving skills. Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
         </b>
     </p>
     <ul>
