@@ -28,10 +28,10 @@
 <div align="center">
     <br>
     <br>
-    <h2>Coding Activity</h2>
+    <h2>Contribution Activity</h2>
     <br>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/?username=ahmedfathydev&show_icons=true&include_all_commits=true&theme=radical" alt="GitHub Coding Activity" height="200"/>
+        <img src="https://github-readme-stats.vercel.app/api/?username=ahmedfathydev&show_icons=true&include_all_commits=true&theme=radical" alt="GitHub Contribution Activity" height="200"/>
     </a>
     <br>
     <br>
