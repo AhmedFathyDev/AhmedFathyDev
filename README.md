@@ -13,7 +13,7 @@
 <div class="about" align="left">
     <p>
         <b>
-            Senior Computer Science Student, Back-End Developer, Freelancer, and Open-Source Enthusiast, good in Algorithms, Data Structures, Object-Oriented Programming, and Problem Solving skills. Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
+            Senior Computer Science Student, Back-End Developer, Problem Solver, Freelancer, and Open-Source Enthusiast. Good in Algorithms, Data Structures, Object-Oriented Programming, and Problem Solving skills. Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
         </b>
     </p>
     <ul>
