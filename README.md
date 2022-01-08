@@ -29,7 +29,7 @@
 </div>
 <div class="contributions" align="center">
     <br>
-    <h2>Contribution Activity</h2>
+    <h1>Contribution Activity</h1>
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=ahmedfathydev&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
     <br>
