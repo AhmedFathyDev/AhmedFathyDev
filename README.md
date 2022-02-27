@@ -42,7 +42,7 @@
         <br>
         -->
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedFathyDev&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Profile Trophy" height="200" />
-        <img src="https://github-profile-trophy.vercel.app/?username=AhmedFathyDev&theme=matrix&no-bg=true&row=1" alt="GitHub Streak Stats" height="200" />
+        <img src="https://github-profile-trophy.vercel.app/?username=AhmedFathyDev&theme=matrix&no-bg=true&row=1" alt="GitHub Streak Stats" />
         <br>
         <br>
     </div>
