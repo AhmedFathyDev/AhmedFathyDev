@@ -3,7 +3,7 @@
         <img src="GitHub.png" height="200"/>
     </div>
     <div align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Fathy;Software+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast"/>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Fathy;Software+Engineer;Freelancer;Open-Source+Enthusiast"/>
     </div>
     <div align="center">
         <a href="https://www.linkedin.com/in/ahmedfathydev/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin"/></a>
