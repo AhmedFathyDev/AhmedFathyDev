@@ -21,11 +21,17 @@
             </strong>
         </p>
         <ul>
+            <li>🔭 <b>I’m currently working on</b>: <a href="https://github.com/learning-lantern">Learning Lantern</a>.</li>
+            <li>👯 <b>I’m looking to collaborate on</b>: <a href="https://github.com/AhmedFathyDev/LeetCode">LeetCode</a>.</li>
+            <li>👯 <b>I’m looking to collaborate on</b>: <a href="https://github.com/AhmedFathyDev/HackerRank">HackerRank</a>.</li>
+            <li>👯 <b>I’m looking to collaborate on</b>: <a href="https://github.com/AhmedFathyDev/Codeforces">Codeforces</a>.</li>
             <li>🌱 <b>I’m currently learning</b>: Computer Science and Software Engineering.</li>
+            <li>💬 <b>Ask me about</b>: .NET.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity.</li>
-            <li>👨‍💻 <b>Hire me for Full Stack Development jobs</b>: <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580755107926016">Link to my UpWork Full Stack Development Specialization</a>.</li>
+            <li>👨‍💻 <b>All of my projects are available at</b>: <a href="https://github.com/AhmedFathyDev?tab=repositories">My GitHub</a>.</li>
             <li>👨‍💻 <b>Hire me for Back-End Development jobs</b>: <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580748673863680">Link to my UpWork Back-End Development Specialization</a>.</li>
+            <li>👨‍💻 <b>Hire me for Full Stack Development jobs</b>: <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580755107926016">Link to my UpWork Full Stack Development Specialization</a>.</li>
         </ul>
     </div>
     <div align="center">
