@@ -23,9 +23,9 @@
         </p>
         <ul>
             <li>🔭 <b>I’m currently working on</b>: <a href="https://github.com/learning-lantern">Learning Lantern</a>.</li>
-            <li>👯 <b>I’m looking to collaborate on</b>: <a href="https://github.com/AhmedFathyDev/LeetCode">LeetCode</a>.</li>
-            <li>👯 <b>I’m looking to collaborate on</b>: <a href="https://github.com/AhmedFathyDev/HackerRank">HackerRank</a>.</li>
-            <li>👯 <b>I’m looking to collaborate on</b>: <a href="https://github.com/AhmedFathyDev/Codeforces">Codeforces</a>.</li>
+            <li>👯 <b>I’m looking to collaborate on</b>: <a href="https://github.com/AhmedFathyDev/LeetCode-Solutions">LeetCode-Solutions</a>.</li>
+            <li>👯 <b>I’m looking to collaborate on</b>: <a href="https://github.com/AhmedFathyDev/HackerRank-Solutions">HackerRank-Solutions</a>.</li>
+            <li>👯 <b>I’m looking to collaborate on</b>: <a href="https://github.com/AhmedFathyDev/Codeforces-Solutions">Codeforces-Solutions</a>.</li>
             <li>🌱 <b>I’m currently learning</b>: Computer Science and Software Engineering.</li>
             <li>💬 <b>Ask me about</b>: .NET.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
