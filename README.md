@@ -59,11 +59,11 @@
     </ul>
 </div>
 
-# Skills
+<h1 align="center">Skills</h1>
 
 ```json
 {
-    "fathy.skills": [
+    "skills": [
         "C#",                   "Object-Oriented Programming (OOP)",    "Data Structures",          "Problem Solving",
         "Algorithms",           "Database Systems",                     ".NET Core",                "Microservices",
         "ASP.NET Core MVC",     "ASP.NET Core Web API",                 "Entity Framework Core",    "JSON Web Token (JWT)",
