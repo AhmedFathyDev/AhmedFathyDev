@@ -16,9 +16,10 @@
     <a href="https://t.me/ahmedfathydev"><img
             src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" /></a>
 </div>
-<div align="left">
+<div>
     <br>
-    <p>
+    <h1 align="center">About</h1>
+    <p align="left">
         <strong>
             I am a Back-End Engineer with industry experience in building websites and web applications. Specialist
             in .NET Core Framework. Satisfactory background working with Angular, React, Blazor, and Razor Pages on
@@ -34,7 +35,7 @@
             product spirit. Self-quick learner, self-motivated, and social.
         </strong>
     </p>
-    <ul>
+    <ul align="left">
         <li>🔭 <b>I’m currently working on</b>: <a href="https://github.com/learning-lantern">Learning Lantern</a>.
         </li>
         <li>👯 <b>I’m looking to collaborate on</b>: <a
