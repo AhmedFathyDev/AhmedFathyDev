@@ -19,17 +19,17 @@
 
 **I am passionating about learning .NET, Back-End technologies, DevOps, Web 3, Blockchain, Linux, Virtualization, and Cloud Computing. Detailed-oriented, responsible, committed engineer, With a get-it-done, on-time, and high-quality product spirit. Self-quick learner, self-motivated, and social.**
 
-* 🔭 **I’m currently working on**: [Learning Lantern]("https://github.com/learning-lantern").
-* 🔭 **I’m looking to collaborate on**: [LeetCode-Solutions]("https://github.com/AhmedFathyDev/LeetCode-Solutions").
-* 🔭 **I’m looking to collaborate on**: [HackerRank-Solutions]("https://github.com/AhmedFathyDev/HackerRank-Solutions").
-* 🔭 **I’m looking to collaborate on**: [Codeforces-Solutions]("https://github.com/AhmedFathyDev/Codeforces-Solutions").
+* 🔭 **I’m currently working on**: [Learning Lantern](https://github.com/learning-lantern).
+* 🔭 **I’m looking to collaborate on**: [LeetCode-Solutions](https://github.com/AhmedFathyDev/LeetCode-Solutions).
+* 🔭 **I’m looking to collaborate on**: [HackerRank-Solutions](https://github.com/AhmedFathyDev/HackerRank-Solutions).
+* 🔭 **I’m looking to collaborate on**: [Codeforces-Solutions](https://github.com/AhmedFathyDev/Codeforces-Solutions).
 * 🌱 **I’m currently learning**: `Computer Science` and `Software Engineering`.
 * 💬 **Ask me about**: `.NET`.
-* 📫 **How to reach me**: Catch and follow me from the above links 👆, in addition to follow me here.
-* 🤔 **I’m currently open for**: A new job opportunity.
-* 👨‍💻 **All of my projects are available at**: [My GitHub]("https://github.com/AhmedFathyDev?tab=repositories").
-* 👨‍💻 **Hire me for Back-End Development jobs**: [Link to my UpWork Back-End Development Specialization]("https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580748673863680").
-* 👨‍💻 **Hire me for Full Stack Development jobs**: [Link to my UpWork Full Stack Development Specialization]("https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580755107926016").
+* 📫 **How to reach me**: Catch and follow me from the `above links 👆`, in addition to `follow me here`.
+* 🤔 **I’m currently open for**: `A new job opportunity`.
+* 👨‍💻 **All of my projects are available at**: [My GitHub](https://github.com/AhmedFathyDev?tab=repositories).
+* 👨‍💻 **Hire me for Back-End Development jobs**: [Link to my UpWork Back-End Development Specialization](https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580748673863680).
+* 👨‍💻 **Hire me for Full Stack Development jobs**: [Link to my UpWork Full Stack Development Specialization](https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580755107926016).
 
 
 <h1 align="center">Skills</h1>
