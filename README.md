@@ -17,7 +17,6 @@
             src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" /></a>
 </div>
 <div>
-    <br>
     <h1 align="center">About</h1>
     <p align="left">
         <strong>
