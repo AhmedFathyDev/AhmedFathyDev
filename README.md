@@ -40,11 +40,13 @@
 ```json
 {
     "skills": [
-        "C#",                   "ASP.NET Core Web API",                 "Entity Framework Core",    "Database Systems",
-        "JSON Web Token (JWT)", "Language Integrated Query (LINQ)",     ".NET Core",                "ASP.NET Core MVC",
-        "Microsoft Azure",      "Software Engineering Practices",       "Cloud Computing",          "Microservices",
-        "Problem Solving",      "Object-Oriented Programming (OOP)",    "Data Structures",          "Algorithms",
-        "SQL",                  "Git",                                  "Unix / Linux",             "Clean Code"
+        "C#",                               "ASP.NET Core Web API",                 "Entity Framework Core",
+        "Database Systems",                 "JSON Web Token (JWT)",                 "Language Integrated Query (LINQ)",
+        ".NET Core",                        "ASP.NET Core MVC",                     "Microsoft Azure",
+        "Software Engineering Practices",   "Cloud Computing",                      "Microservices",
+        "Problem Solving",                  "Object-Oriented Programming (OOP)",    "Data Structures",
+        "Algorithms",                       "SQL",                                  "Git",
+        "Unix / Linux",                     "Clean Code",                           "Teamwork"
     ]
 }
 ```
