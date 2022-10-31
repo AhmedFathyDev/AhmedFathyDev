@@ -13,19 +13,20 @@
 
 <h1 align="center">About</h1>
 
-**I am a Back-End Engineer with industry experience in building websites and web applications. Specialist in .NET Core Framework. Satisfactory background working with Angular, React, Blazor, and Razor Pages on multiple projects.**
+**I am a Back-End Engineer with industry experience in building websites and web applications. Specialist in .NET Core Frameworks. Satisfactory background working with Angular, React, and Vue.js on multiple projects.**
 
-**I have powerful computer science knowledge and am eager to learn more concepts and deep dive into computer science tracks. Good in Object-Oriented Programming, Data Structures, Algorithms, Database Systems, Design Patterns, and Problem Solving skills. I practiced competitive programming a lot in college and enjoyed competing with my colleagues and mentors and participating in many programming competitions.**
+**I have powerful computer science knowledge and I am eager to learn more concepts and deep dive into computer science tracks. Good in Object-Oriented Programming, Data Structures, Algorithms, Database Systems, Design Patterns, and Problem Solving skills. I practiced competitive programming a lot in college and enjoyed competing with my colleagues and mentors and participating in many programming competitions.**
 
 **I am passionate about learning .NET, Back-End technologies, DevOps, Web 3, Blockchain, Linux, Virtualization, and Cloud Computing.**
 
 **Detailed-oriented, responsible, committed engineer, With a get-it-done, on-time, and high-quality product spirit. Self-quick learner, self-motivated, and social.**
 
-* 🔭 **I’m currently working on**: [BookStore.MVC](https://github.com/AhmedFathyDev/BookStore.MVC) and [mustafakamel](https://github.com/AhmedFathyDev/mustafakamel).
+* 🔭 **I’m currently working on**: [BookStore.MVC](https://github.com/AhmedFathyDev/BookStore.MVC).
+* 🔭 **I’m looking to collaborate on**: [Fathy.Common](https://github.com/AhmedFathyDev/Fathy.Common).
 * 🔭 **I’m looking to collaborate on**: [LeetCode-Solutions](https://github.com/AhmedFathyDev/LeetCode-Solutions).
 * 🔭 **I’m looking to collaborate on**: [HackerRank-Solutions](https://github.com/AhmedFathyDev/HackerRank-Solutions).
 * 🔭 **I’m looking to collaborate on**: [Codeforces-Solutions](https://github.com/AhmedFathyDev/Codeforces-Solutions).
-* 🌱 **I’m currently learning**: `Computer Science` and `Software Engineering`.
+* 🌱 **I’m currently learning**: `ASP.NET Core MVC`.
 * 💬 **Ask me about**: `.NET`.
 * 📫 **How to reach me**: Catch and follow me from the `above links 👆`, in addition to `follow me here`.
 * 🤔 **I’m currently open for**: `A new job opportunity`.
@@ -39,9 +40,10 @@
 ```json
 {
     "skills": [
-        "C#",                   "Object-Oriented Programming (OOP)",    "Data Structures",          "Problem Solving",
-        "Algorithms",           "Database Systems",                     ".NET Core",                "Microservices",
-        "ASP.NET Core MVC",     "ASP.NET Core Web API",                 "Entity Framework Core",    "JSON Web Token (JWT)",
+        "C#",                   "ASP.NET Core Web API",                 "Entity Framework Core",    "Database Systems",
+        "JSON Web Token (JWT)", "Language Integrated Query (LINQ)",     ".NET Core",                "ASP.NET Core MVC",
+        "Microsoft Azure",      "Software Engineering Practices",       "Cloud Computing",          "Microservices",
+        "Problem Solving",      "Object-Oriented Programming (OOP)",    "Data Structures",          "Algorithms",
         "SQL",                  "Git",                                  "Unix / Linux",             "Clean Code"
     ]
 }
