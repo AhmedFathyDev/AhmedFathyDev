@@ -19,7 +19,7 @@
 
 **Passionate about learning .NET, Back-End technologies, DevOps, Web 3, Blockchain, Linux, Virtualization, and Cloud Computing.**
 
-**Detailed-oriented, responsible, committed engineer, With a get-it-done, on-time, and high-quality product spirit. Self-quick learner, self-motivated, and social.**
+**Detailed-Oriented, responsible, committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self-quick learner, self-motivated, and social.**
 
 * 🔭 **I’m currently working on**: [BookStore.MVC](https://github.com/AhmedFathyDev/BookStore.MVC).
 * 🔭 **I’m looking to collaborate on**: [Fathy.Common](https://github.com/AhmedFathyDev/Fathy.Common).
@@ -40,13 +40,13 @@
 ```json
 {
     "skills": [
-        "C#",                               "ASP.NET Core Web API",                 "Entity Framework Core",
-        "Database Systems",                 "JSON Web Token (JWT)",                 "Language Integrated Query (LINQ)",
-        ".NET Core",                        "ASP.NET Core MVC",                     "Microsoft Azure",
-        "Software Engineering Practices",   "Cloud Computing",                      "Microservices",
-        "Problem Solving",                  "Object-Oriented Programming (OOP)",    "Data Structures",
-        "Algorithms",                       "SQL",                                  "Git",
-        "Unix / Linux",                     "Clean Code",                           "Teamwork"
+        "C#",                                   "ASP.NET Core Web API",     "Entity Framework Core",
+        "Database Systems",                     "JSON Web Token (JWT)",     "Language Integrated Query (LINQ)",
+        ".NET Core",                            "ASP.NET Core MVC",         "Microsoft Azure",
+        "Software Engineering Practices",       "Clean Code",               "Unit Testing",
+        "Microservices",                        "Cloud Computing",          "Problem Solving",
+        "Object-Oriented Programming (OOP)",    "Data Structures",          "Algorithms",
+        "SQL",                                  "Git",                      "Unix / Linux"
     ]
 }
 ```
