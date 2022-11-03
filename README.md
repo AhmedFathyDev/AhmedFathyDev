@@ -23,9 +23,8 @@
 
 * 🔭 **I’m currently working on**: [BookStore.MVC](https://github.com/AhmedFathyDev/BookStore.MVC).
 * 🔭 **I’m looking to collaborate on**: [Fathy.Common](https://github.com/AhmedFathyDev/Fathy.Common).
-* 🔭 **I’m looking to collaborate on**: [LeetCode-Solutions](https://github.com/AhmedFathyDev/LeetCode-Solutions).
-* 🔭 **I’m looking to collaborate on**: [HackerRank-Solutions](https://github.com/AhmedFathyDev/HackerRank-Solutions).
-* 🔭 **I’m looking to collaborate on**: [Codeforces-Solutions](https://github.com/AhmedFathyDev/Codeforces-Solutions).
+* 🔭 **I’m looking to collaborate on**: [JobWebsites](https://gist.github.com/AhmedFathyDev/950f28910c9a3804c8d39d8d5f042916) and [FreelanceWebsites](https://gist.github.com/AhmedFathyDev/0861a0a926bfd5c1b0e85dd827c1efe9).
+* 🔭 **I’m looking to collaborate on**: [LeetCode-Solutions](https://github.com/AhmedFathyDev/LeetCode-Solutions), [HackerRank-Solutions](https://github.com/AhmedFathyDev/HackerRank-Solutions), and [Codeforces-Solutions](https://github.com/AhmedFathyDev/Codeforces-Solutions).
 * 🌱 **I’m currently learning**: `ASP.NET Core MVC`.
 * 💬 **Ask me about**: `.NET`.
 * 📫 **How to reach me**: Catch and follow me from the `above links 👆`, in addition to `follow me here`.
