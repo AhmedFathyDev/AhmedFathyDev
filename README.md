@@ -13,7 +13,7 @@
 
 <h1 align="center">About</h1>
 
-**Back-End Engineer with industry experience in building websites and web applications. Specialist in .NET Core Frameworks. Satisfactory background working with Angular, React, and Vue.js on multiple projects.**
+**With over 1 year of experience in Back-End Development and industry experience in building websites and web applications. Specialist in .NET Core Frameworks. Satisfactory background working with Angular, React, and Vue.js on multiple projects.**
 
 **Had powerful computer science knowledge and I am eager to learn more concepts and deep dive into computer science tracks. Good in Object-Oriented Programming, Data Structures, Algorithms, Database Systems, Design Patterns, and Problem Solving skills. I practiced competitive programming a lot in college and enjoyed competing with my colleagues and mentors and participating in many programming competitions.**
 
