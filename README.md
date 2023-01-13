@@ -6,7 +6,7 @@
 </div>
 <div align="center">
     <a href="https://www.linkedin.com/in/ahmedfathydev/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
-    <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" /></a>
+    <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580748673863680"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" /></a>
     <a href="https://stackoverflow.com/users/11837259/ahmed-fathy"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" /></a>
     <a href="https://t.me/ahmedfathydev"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" /></a>
 </div>
@@ -15,7 +15,7 @@
 
 **With over 1 year of experience in Back-End Development and industry experience in building websites and web applications. Specialist in .NET Core Frameworks. Satisfactory background working with Angular, React, and Vue.js on multiple projects.**
 
-**Had powerful computer science knowledge and I am eager to learn more concepts and deep dive into computer science tracks. Good in Object-Oriented Programming, Data Structures, Algorithms, Database Systems, Design Patterns, and Problem Solving skills. I practiced competitive programming a lot in college and enjoyed competing with my colleagues and mentors and participating in many programming competitions.**
+**Had powerful computer science knowledge and I am eager to learn more concepts and dive deep into computer science tracks. Good in Object-Oriented Programming, Data Structures, Algorithms, Database Systems, Design Patterns, and Problem-Solving skills. I practiced competitive programming a lot in college and enjoyed competing with my colleagues and mentors and participating in many programming competitions.**
 
 **Passionate about learning .NET, Back-End technologies, DevOps, Web 3, Blockchain, Linux, Virtualization, and Cloud Computing.**
 
@@ -30,8 +30,6 @@
 * 📫 **How to reach me**: Catch and follow me from the `above links 👆`, in addition to `follow me here`.
 * 🤔 **I’m currently open for**: `A new job opportunity`.
 * 👨‍💻 **All of my projects are available at**: [My GitHub](https://github.com/AhmedFathyDev?tab=repositories).
-* 👨‍💻 **Hire me for Back-End Development jobs**: [Link to my UpWork Back-End Development Specialization](https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580748673863680).
-* 👨‍💻 **Hire me for Full Stack Development jobs**: [Link to my UpWork Full Stack Development Specialization](https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580755107926016).
 
 
 <h1 align="center">Skills</h1>
