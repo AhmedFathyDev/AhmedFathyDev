@@ -21,15 +21,15 @@
 
 **Detailed-Oriented, responsible, committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self-quick learner, self-motivated, and social.**
 
-* 🔭 **I’m currently working on**: [BookStore.MVC](https://github.com/SWEAhmedOsman/BookStore.MVC).
-* 🔭 **I’m looking to collaborate on**: [Fathy.Common](https://github.com/SWEAhmedOsman/Fathy.Common).
-* 🔭 **I’m looking to collaborate on**: [JobWebsites](https://gist.github.com/SWEAhmedOsman/950f28910c9a3804c8d39d8d5f042916) and [FreelanceWebsites](https://gist.github.com/SWEAhmedOsman/0861a0a926bfd5c1b0e85dd827c1efe9).
-* 🔭 **I’m looking to collaborate on**: [LeetCode-Solutions](https://github.com/SWEAhmedOsman/LeetCode-Solutions), [HackerRank-Solutions](https://github.com/SWEAhmedOsman/HackerRank-Solutions), and [Codeforces-Solutions](https://github.com/SWEAhmedOsman/Codeforces-Solutions).
+* 🔭 **I’m currently working on**: [BookStore.MVC](https://github.com/SWE-Ahmed-Osman/BookStore.MVC).
+* 🔭 **I’m looking to collaborate on**: [Fathy.Common](https://github.com/SWE-Ahmed-Osman/Fathy.Common).
+* 🔭 **I’m looking to collaborate on**: [JobWebsites](https://gist.github.com/SWE-Ahmed-Osman/950f28910c9a3804c8d39d8d5f042916) and [FreelanceWebsites](https://gist.github.com/SWE-Ahmed-Osman/0861a0a926bfd5c1b0e85dd827c1efe9).
+* 🔭 **I’m looking to collaborate on**: [LeetCode-Solutions](https://github.com/SWE-Ahmed-Osman/LeetCode-Solutions), [HackerRank-Solutions](https://github.com/SWE-Ahmed-Osman/HackerRank-Solutions), and [Codeforces-Solutions](https://github.com/SWE-Ahmed-Osman/Codeforces-Solutions).
 * 🌱 **I’m currently learning**: `ASP.NET Core SignalR`.
 * 💬 **Ask me about**: `.NET`.
 * 📫 **How to reach me**: Catch and follow me from the `above links 👆`, in addition to `follow me here`.
 * 🤔 **I’m currently open for**: `A new job opportunity`.
-* 👨‍💻 **All of my projects are available at**: [My GitHub](https://github.com/SWEAhmedOsman?tab=repositories).
+* 👨‍💻 **All of my projects are available at**: [My GitHub](https://github.com/SWE-Ahmed-Osman?tab=repositories).
 
 
 <h1 align="center">Skills</h1>
@@ -50,9 +50,9 @@
 
 <div align="center">
     <h1>Contribution Activity</h1>
-    <img src="https://github-readme-stats.vercel.app/api?username=SWEAhmedOsman&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" width="500">
+    <img src="https://github-readme-stats.vercel.app/api?username=SWE-Ahmed-Osman&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" width="500">
     <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SWEAhmedOsman&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" width="500">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SWE-Ahmed-Osman&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" width="500">
 </div>
 <br>
 <br>
