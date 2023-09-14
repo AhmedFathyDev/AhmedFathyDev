@@ -11,7 +11,7 @@
     <a href="https://t.me/SWE_Ahmed_Osman"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram"></a>
 </div>
 
-<h1 align="center">About</h1>
+<h1 align="center">Summary</h1>
 
 **With over 1 year of experience in Back-End Development and industry experience in building websites and web applications. Specialist in .NET Core Frameworks. Satisfactory background working with Angular, React, and Vue.js on multiple projects.**
 
