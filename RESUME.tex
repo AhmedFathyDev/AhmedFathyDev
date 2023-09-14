@@ -1,0 +1,307 @@
+%%%%%%%%%%%%%%%%%
+% This is an sample CV template created using altacv.cls
+% (v1.7, 9 August 2023) written by LianTze Lim (liantze@gmail.com). Compiles with pdfLaTeX, XeLaTeX and LuaLaTeX.
+%
+%% It may be distributed and/or modified under the
+%% conditions of the LaTeX Project Public License, either version 1.3
+%% of this license or (at your option) any later version.
+%% The latest version of this license is in
+%%    http://www.latex-project.org/lppl.txt
+%% and version 1.3 or later is part of all distributions of LaTeX
+%% version 2003/12/01 or later.
+%%%%%%%%%%%%%%%%
+
+%% Use the "normalphoto" option if you want a normal photo instead of cropped to a circle
+% \documentclass[10pt,a4paper,normalphoto]{altacv}
+
+\documentclass[10pt,a4paper,ragged2e,withhyper]{altacv}
+%% AltaCV uses the fontawesome5 and packages.
+%% See http://texdoc.net/pkg/fontawesome5 for full list of symbols.
+
+% Change the page layout if you need to
+\geometry{left=1.25cm,right=1.25cm,top=1.5cm,bottom=1.5cm,columnsep=1.2cm}
+
+% The paracol package lets you typeset columns of text in parallel
+\usepackage{paracol}
+
+% Change the font if you want to, depending on whether
+% you're using pdflatex or xelatex/lualatex
+% WHEN COMPILING WITH XELATEX PLEASE USE
+% xelatex -shell-escape -output-driver="xdvipdfmx -z 0" sample.tex
+\ifxetexorluatex
+  % If using xelatex or lualatex:
+  \setmainfont{Times New Roman}
+  \setsansfont{Arial}
+  \renewcommand{\familydefault}{\sfdefault}
+\else
+  % If using pdflatex:
+  \usepackage[rm]{roboto}
+  \usepackage[defaultsans]{lato}
+  % \usepackage{sourcesanspro}
+  \renewcommand{\familydefault}{\sfdefault}
+\fi
+
+% Change the colours if you want to
+\definecolor{SlateGrey}{HTML}{2E2E2E}
+\definecolor{LightGrey}{HTML}{666666}
+\definecolor{DarkPastelRed}{HTML}{450808}
+\definecolor{PastelRed}{HTML}{8F0D0D}
+\definecolor{GoldenEarth}{HTML}{E7D192}
+% \colorlet{name}{black}
+% \colorlet{tagline}{PastelRed}
+% \colorlet{heading}{DarkPastelRed}
+% \colorlet{headingrule}{GoldenEarth}
+% \colorlet{subheading}{PastelRed}
+% \colorlet{accent}{PastelRed}
+% \colorlet{emphasis}{SlateGrey}
+% \colorlet{body}{LightGrey}
+
+% Change some fonts, if necessary
+\renewcommand{\namefont}{\Huge\rmfamily\bfseries}
+\renewcommand{\personalinfofont}{\footnotesize}
+\renewcommand{\cvsectionfont}{\LARGE\rmfamily\bfseries}
+\renewcommand{\cvsubsectionfont}{\large\bfseries}
+
+
+% Change the bullets for itemize and rating marker
+% for \cvskill if you want to
+\renewcommand{\cvItemMarker}{{\small\textbullet}}
+\renewcommand{\cvRatingMarker}{\faCircle}
+% ...and the markers for the date/location for \cvevent
+% \renewcommand{\cvDateMarker}{\faCalendar*[regular]}
+% \renewcommand{\cvLocationMarker}{\faMapMarker*}
+
+
+% If your CV/résumé is in a language other than English,
+% then you probably want to change these so that when you
+% copy-paste from the PDF or run pdftotext, the location
+% and date marker icons for \cvevent will paste as correct
+% translations. For example Spanish:
+% \renewcommand{\locationname}{Ubicación}
+% \renewcommand{\datename}{Fecha}
+
+% Use ArabTex package for Arabic language.
+\usepackage{arabtex}
+\usepackage{utf8}
+
+\begin{document}
+
+\setcode{utf8}
+
+\name{Ahmed Mohamed Fathy Osman}
+\tagline{\huge{Software Engineer}}
+%% You can add multiple photos on the left or right
+% \photoR{2.8cm}{Globe_High}
+% \photoL{2.5cm}{Yacht_High,Suitcase_High}
+
+\personalinfo{%
+  % Not all of these are required!
+  \email{SWE.Ahmed.Osman@gmail.com}
+  \phone{+20 120 873 1604}
+  % \mailaddress{Åddrésş, Street, 00000 Cóuntry}
+  \location{Cairo, Egypt}
+  % \homepage{www.homepage.com}
+  % \twitter{@twitterhandle}
+  \linkedin{SWE-Ahmed-Osman}
+  \github{SWE-Ahmed-Osman}
+  % \orcid{0000-0000-0000-0000}
+  %% You can add your arbitrary detail with
+  %% \printinfo{symbol}{detail}[optional hyperlink prefix]
+  % \printinfo{\faPaw}{Hey ho!}[https://example.com/]
+
+  %% Or you can declare your field with
+  %% \NewInfoFiled{fieldname}{symbol}[optional hyperlink prefix] and use it:
+  % \NewInfoField{gitlab}{\faGitlab}[https://gitlab.com/]
+  % \gitlab{your_id}
+  %%
+  %% For services and platforms like Mastodon where there isn't a
+  %% straightforward relation between the user ID/nickname and the hyperlink,
+  %% you can use \printinfo directly e.g.
+  % \printinfo{\faMastodon}{@username@instace}[https://instance.url/@username]
+  %% But if you want to create new dedicated info fields for
+  %% such platforms, then use \NewInfoField* with a star:
+  % \NewInfoField*{mastodon}{\faMastodon}
+  %% then you can use \mastodon, with TWO arguments where the 2nd argument is
+  %% the full hyperlink.
+  % \mastodon{@username@instance}{https://instance.url/@username}
+}
+
+\makecvheader
+%% Depending on your tastes, you may want to make fonts of itemize environments slightly smaller
+% \AtBeginEnvironment{itemize}{\small}
+
+%% Set the left/right column width ratio to 6:4.
+\columnratio{0.6}
+
+% Start a 2-column paracol. Both the left and right columns will automatically
+% break across pages if things get too long.
+\begin{paracol}{2}
+
+\cvsection{Education}
+
+\cvevent{B.Sc.\ in Computer Science}{\href{https://www.aun.edu.eg/}{Assiut University}}{Sep. 2018 -- Jul. 2022}{Assiut, Egypt}
+
+\divider
+
+\cvevent{.NET Developer Diploma}{\href{https://www.linkedin.com/school/information-technology-institute-iti-/}{Information Technology Institute (ITI)}}{Jun. 2021 -- Aug. 2021}{Assiut, Egypt}
+
+\cvsection{Experience}
+
+\cvevent{Software Engineer}{Freelance}{Jul. 2022 -- Present}{Assiut, Egypt}
+\begin{itemize}
+\item I work as a Freelancer during my Military service vacations to improve my skills and raise my experience. Integrated my educational knowledge with industry experience to start my journey in the software industry.
+\end{itemize}
+
+\divider
+
+\cvevent{Mentor \& Contestant}{\href{https://www.linkedin.com/company/icpc-assiut/}{ICPC Assiut University Community}}{2018 -- 2022}{Assiut, Egypt}
+The main goal of this community is to improve the problem-solving skills of all students by participating in programming competitions.
+
+\divider
+
+\cvevent{Ambassador}{\href{https://www.linkedin.com/school/information-technology-institute-iti-/}{Information Technology Institute (ITI)}}{2021 -- 2022}{Assiut, Egypt}
+A leading national institute in ICT human capacity-building was established with the Egyptian Ministry of Communications and Information Technology.
+
+\cvsection{Projects}
+
+\cvevent{\href{https://github.com/SWE-Ahmed-Osman/Fathy.Common}{Fathy.Common}}{Open-Source}{Oct. 2022 -- Present}{}
+\begin{itemize}
+\item An open-source project I made to facilitate developing the most common .NET services for developers and let them be free to customize it, with the best practices.
+\item Implemented Swagger definitions, Email sender, Authentication and JWT services, and Azure Blob Storage service.
+\end{itemize}
+
+\divider
+
+\cvevent{\href{https://github.com/SWE-Ahmed-Osman/mustafakamel.NET}{Mustafa Kamel Portfolio}}{Freelance}{Oct. 2022}{}
+\begin{itemize}
+\item Learned more in this project about environment variables and dependency injection and used it professionally.
+\item I injected the Swagger service implemented its security definition for authentication and used it to test and document my API.
+\item Approached code first, used Entity Framework Core (ORM) for database migrations with SQL Server, and hosted my database on Azure SQL Database.
+\item I used LINQ for querying and data manipulation.
+\item Applied ASP.NET Core Identity with JSON Web Token for authentication and authorization. Accomplished complex mapping using Automapper.
+\item Deployed my app on Azure App Service. Interacted with files (videos, images, and PDFs) and stored them on Azure Blob Storage service.
+\end{itemize}
+
+\divider
+
+\cvevent{\href{https://github.com/learning-lantern}{Learning Lantern}}{Graduation Project}{Jan. 2022 -- Jul. 2022}{}
+\begin{itemize}
+\item An online educational environment, with integrated and easy-to-use cloud services and content-creating tools for leveraging the online education processes.
+\item Improved from my role as Project Team Leader my time management, communication, and presentation skills. Contributed to designing the database, then normalized it to be as optimized as possible.
+\item Built the Authentication service using the JWT Bearer using the MediatR pattern. Developed the app in the Monolithic architecture, then we upgraded it to the Microservices architecture. Implemented Ocelot API Gateway.
+\item Accomplished To Do, Text Lessons, and Video services. Tested our app with Unit Testing.
+\item Managed our database on Azure SQL Database and our app on Azure App Service and used Azure Blob Storage to store our files and videos and Azure DevOps for the deployment of our Docker containers.
+\end{itemize}
+
+\divider
+
+\cvevent{\href{https://github.com/SWE-Ahmed-Osman/BookStore.WebAPI}{Book Store Web API Application}}{}{Jan. 2022 -- Feb. 2022}{}
+\begin{itemize}
+\item Rebuilt and upgraded it with .NET 6 and Angular 13.2.2 For learning.
+\item Added ASP.NET Identity Core framework and used Entity Framework Core to interact with the SQL Server database.
+\end{itemize}
+
+\divider
+
+\cvevent{\href{https://github.com/ahl-alquran-academy}{Ahl AlQuran Academy}}{}{Sep. 2021 -- Jun. 2022}{}
+A platform for memorizing and reviewing the Noble Quran and learning the provisions of intonation and readings. Participated in designing the database. Mapped and normalized the entities, and implemented them on MySQL Server.
+
+\medskip
+
+
+%% Switch to the right column. This will now automatically move to the second
+%% page if the content is too long.
+\switchcolumn
+
+\cvsection{About}
+
+\begin{itemize}
+\item Back-End Engineer with industry experience in building websites and web applications. Specialist in .NET Core Frameworks. Satisfactory background working with Angular, React, and Vue.js on multiple projects.
+\item Practiced competitive programming a lot in college and enjoyed competing with my colleagues and mentors and participating in many programming competitions.
+\item Detailed-Oriented, responsible, committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self-quick learner, self-motivated, and social.
+\end{itemize}
+
+\cvsection{My Life Philosophy}
+
+\begin{quote}
+``\RL{إني لأكْرَه أن أَرى أحدَكم سبَهْلَلا لاَ في عَمَل دُنيا ولا في عَمل آخره.}''
+\end{quote}
+
+\cvsection{Most Proud of}
+
+\cvachievement{\faTrophy}{\href{https://icpc.global/ICPCID/0B2QPKFH8JMG}{ICPCID}}{}
+
+\cvachievement{\faHeartbeat}{\href{https://drive.google.com/file/d/1Gmcf33B4_rAJ-FqTkQXJ2-6kYhJiofP3/view?usp=sharing}{Database Fundamentals}}{}
+
+\cvachievement{\faTrophy}{\href{https://drive.google.com/file/d/1hkGmHOcu0o5RtP1xld4zJANnbUo3VLAn/view?usp=sharing}{Computer Network Fundamentals}}{}
+
+\cvachievement{\faHeartbeat}{\href{https://www.coursera.org/account/accomplishments/certificate/7LCUGZHAPXEW}{Cloud Computing Basics (Cloud 101)}}{}
+
+\cvachievement{\faTrophy}{\href{https://www.coursera.org/account/accomplishments/certificate/TLFB2AJCZ2TT}{Technical Support Fundamentals}}{}
+
+\cvachievement{\faHeartbeat}{\href{https://www.coursera.org/account/accomplishments/certificate/7Q3BAYSZ4U4F}{The Bits and Bytes of Computer Networking}}{}
+
+\cvachievement{\faTrophy}{\href{https://www.coursera.org/account/accomplishments/certificate/K7HUWLJX6Q2D}{Operating Systems: Becoming a Power User}}{}
+
+\cvachievement{\faHeartbeat}{\href{https://www.coursera.org/account/accomplishments/certificate/2HUDKX5FU5MH}{English for Career Development}}{}
+
+
+\cvsection{Skills}
+
+\cvskill{C\#}{5}
+
+\divider
+
+\cvtag{ASP.NET Core MVC}\\
+\cvtag{ASP.NET Core Web API}\\
+\cvtag{Entity Framework Core}\\
+\cvtag{Language Integrated Query (LINQ)}\\
+\cvtag{JSON Web Token (JWT)}\\
+\cvtag{Microsoft Azure}\\
+
+\divider
+
+\cvskill{Problem Solving}{4}
+
+\divider
+
+\cvskill{Data Structures}{4}
+
+\divider
+
+\cvskill{Algorithms}{3}
+
+\divider
+
+\cvskill{SQL}{4}
+
+\divider
+
+\cvtag{Object-Oriented Programming (OOP)}\\
+\cvtag{Database Systems}\\
+\cvtag{Clean Code}\\
+\cvtag{Software Engineering Practices}\\
+\cvtag{Unit Testing}\\
+\cvtag{Microservices}\\
+\cvtag{Cloud Computing}\\
+\cvtag{Git}\\
+\cvtag{Unix / Linux}\\
+
+\cvsection{Languages}
+
+\cvskill{Arabic}{5}
+
+\divider
+
+\cvskill{English}{4}
+
+%% Yeah I didn't spend too much time making all the
+%% spacing consistent... sorry. Use \smallskip, \medskip,
+%% \bigskip, \vspace etc to make adjustments.
+\medskip
+
+
+\end{paracol}
+
+
+\end{document}
