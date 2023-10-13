@@ -19,7 +19,7 @@
 %% See http://texdoc.net/pkg/fontawesome5 for full list of symbols.
 
 % Change the page layout if you need to
-\geometry{left=1.25cm,right=1.25cm,top=1.5cm,bottom=1.5cm,columnsep=1.2cm}
+\geometry{left=1cm,right=1cm,top=1cm,bottom=1cm,columnsep=1cm}
 
 % The paracol package lets you typeset columns of text in parallel
 \usepackage{paracol}
@@ -130,50 +130,35 @@
 %% Depending on your tastes, you may want to make fonts of itemize environments slightly smaller
 % \AtBeginEnvironment{itemize}{\small}
 
-%% Set the left/right column width ratio to 6:4.
-\columnratio{0.6}
+%% Set the left/right column width ratio to 65:35.
+\columnratio{0.65}
 
 % Start a 2-column paracol. Both the left and right columns will automatically
 % break across pages if things get too long.
 \begin{paracol}{2}
 
+%\cvsection{Summary}
+
+%\begin{itemize}
+%\item With over 1 year of experience in Back-End Development and industry experience in building websites and web applications. Specialist in .NET Core Frameworks. Satisfactory background working with Angular, React, and Vue.js on multiple projects.
+%\item Have powerful computer science knowledge and I am eager to learn more concepts and dive deep into computer science tracks. Good in Object-Oriented Programming, Data Structures, Algorithms, Database Systems, Design Patterns, and Problem-Solving skills. Practiced competitive programming a lot in college and enjoyed competing with my colleagues and mentors and participating in many programming competitions.
+%\item Detailed-Oriented, responsible, committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self-quick learner, self-motivated, and social.
+%\end{itemize}
+
 \cvsection{Education}
 
-\cvevent{B.Sc.\ in Computer Science}{\href{https://www.aun.edu.eg/}{Assiut University}}{Sep. 2018 -- Jul. 2022}{Assiut, Egypt}
-
-\divider
-
-\cvevent{.NET Developer Diploma}{\href{https://www.linkedin.com/school/information-technology-institute-iti-/}{Information Technology Institute (ITI)}}{Jun. 2021 -- Aug. 2021}{Assiut, Egypt}
+\cvevent{B.Sc.\ in Computer Science}{Assiut University}{Sep. 2018 -- Jul. 2022}{Assiut, Egypt}
 
 \cvsection{Experience}
 
 \cvevent{Software Engineer}{Freelance}{Jul. 2022 -- Present}{Assiut, Egypt}
-I work as a Freelancer during my Military service vacations to improve my skills and raise my experience. Integrated my educational knowledge with industry experience to start my journey in the software industry.
-
-\divider
-
-\cvevent{Mentor \& Contestant}{\href{https://www.linkedin.com/company/icpc-assiut/}{ICPC Assiut University Community}}{2018 -- 2022}{Assiut, Egypt}
-The main goal of this community is to improve the problem-solving skills of all students by participating in programming competitions.
-
-\divider
-
-\cvevent{Ambassador}{\href{https://www.linkedin.com/school/information-technology-institute-iti-/}{Information Technology Institute (ITI)}}{2021 -- 2022}{Assiut, Egypt}
-A leading national institute in ICT human capacity-building was established with the Egyptian Ministry of Communications and Information Technology.
+I work as a Freelancer during Military service vacations to improve my skills and raise my experience. I integrate my educational knowledge with industry experience to start my journey in the software industry.
 
 \cvsection{Projects}
-
-\cvevent{\href{https://github.com/SWE-Ahmed-Osman/Fathy.Common}{Fathy.Common}}{Open-Source}{Oct. 2022 -- Present}{}
-\begin{itemize}
-\item An open-source project I made to facilitate developing the most common .NET services for developers and let them be free to customize it, with the best practices.
-\item Implemented Swagger definitions, Email sender, Authentication and JWT services, and Azure Blob Storage service.
-\end{itemize}
-
-\divider
 
 \cvevent{\href{https://github.com/learning-lantern}{Learning Lantern}}{Graduation Project}{Jan. 2022 -- Jul. 2022}{}
 \begin{itemize}
 \item An online educational environment, with integrated and easy-to-use cloud services and content-creating tools for leveraging the online education processes.
-\item Improved from my role as Project Team Leader my time management, communication, and presentation skills. Contributed to designing the database, then normalized it to be as optimized as possible.
 \item Built the Authentication service using the JWT Bearer using the MediatR pattern. Developed the app in the Monolithic architecture, then we upgraded it to the Microservices architecture. Implemented Ocelot API Gateway.
 \item Accomplished To Do, Text Lessons, and Video services. Tested our app with Unit Testing.
 \item Managed our database on Azure SQL Database and our app on Azure App Service and used Azure Blob Storage to store our files and videos and Azure DevOps for the deployment of our Docker containers.
@@ -181,61 +166,67 @@ A leading national institute in ICT human capacity-building was established with
 
 \divider
 
-\cvevent{\href{https://github.com/SWE-Ahmed-Osman/mustafakamel.NET}{Mustafa Kamel Portfolio}}{Freelance}{Oct. 2022}{}
+\cvevent{\href{https://github.com/SWE-Ahmed-Osman/Fathy.Common}{Fathy.Common}}{}{Oct. 2022 -- Present}{}
 \begin{itemize}
-\item Learned more in this project about environment variables and dependency injection and used it professionally.
-\item I injected the Swagger service implemented its security definition for authentication and used it to test and document my API.
+\item Open-source project I made to facilitate developing the most common .NET services for developers and let them be free to customize it, with the best practices.
+\item Implemented Swagger definitions, Email sender, Authentication and JWT services, and Azure Blob Storage service.
+\end{itemize}
+
+\divider
+
+\cvevent{\href{https://github.com/SWE-Ahmed-Osman/mustafakamel.NET}{Mustafa Kamel Portfolio}}{}{Sep. 2022 -- Oct. 2022}{}
+\begin{itemize}
 \item Approached code first, used Entity Framework Core (ORM) for database migrations with SQL Server, and hosted my database on Azure SQL Database.
-\item I used LINQ for querying and data manipulation.
 \item Applied ASP.NET Core Identity with JSON Web Token for authentication and authorization. Accomplished complex mapping using Automapper.
 \item Deployed my app on Azure App Service. Interacted with files (videos, images, and PDFs) and stored them on Azure Blob Storage service.
 \end{itemize}
 
-\divider
-
-\cvevent{\href{https://github.com/SWE-Ahmed-Osman/BookStore.WebAPI}{Book Store Web API Application}}{}{Jan. 2022 -- Feb. 2022}{}
-\begin{itemize}
-\item Rebuilt and upgraded it with .NET 6 and Angular 13.2.2 For learning.
-\item Added ASP.NET Identity Core framework and used Entity Framework Core to interact with the SQL Server database.
-\end{itemize}
-
-\divider
-
-\cvevent{\href{https://github.com/ahl-alquran-academy}{Ahl AlQuran Academy}}{}{Sep. 2021 -- Jun. 2022}{}
-A platform for memorizing and reviewing the Noble Quran and learning the provisions of intonation and readings. Participated in designing the database. Mapped and normalized the entities, and implemented them on MySQL Server.
-
 \medskip
-
 
 %% Switch to the right column. This will now automatically move to the second
 %% page if the content is too long.
 \switchcolumn
 
-\cvsection{My Life Philosophy}
+%\cvsection{Philosophy}
 
-\begin{quote}
-\begin{RLtext}
-`إني لأكْرَه أن أَرى أحدَكم سبَهْلَلا لاَ في عَمَل دُنيا ولا في عَمل آخره.'
-\end{RLtext}
-\end{quote}
+%\begin{quote}
+%\begin{RLtext}
+%`إني لأكْرَه أن أَرى أحدَكم سبَهْلَلا لاَ في عَمَل دُنيا ولا في عَمل آخره.'
+%\end{RLtext}
+%\end{quote}
 
-\cvsection{Summary}
+\cvsection{Skills}
 
-\begin{itemize}
-\item With over 1 year of experience in Back-End Development and industry experience in building websites and web applications. Specialist in .NET Core Frameworks. Satisfactory background working with Angular, React, and Vue.js on multiple projects.
-\item Have powerful computer science knowledge and I am eager to learn more concepts and dive deep into computer science tracks. Good in Object-Oriented Programming, Data Structures, Algorithms, Database Systems, Design Patterns, and Problem-Solving skills. Practiced competitive programming a lot in college and enjoyed competing with my colleagues and mentors and participating in many programming competitions.
-\item Detailed-Oriented, responsible, committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self-quick learner, self-motivated, and social.
-\end{itemize}
+\cvskill{C\#}{5}
+\divider
+\cvskill{SQL}{4}
+\divider
+\cvskill{Problem Solving}{4}
+\divider
+\cvskill{Data Structures}{4}
+\divider
+\cvskill{Algorithms}{3}
+\divider
+\cvtag{ASP.NET Core MVC}\\
+\cvtag{ASP.NET Core Web API}\\
+\cvtag{ASP.NET Core SignalR}\\
+\cvtag{Entity Framework Core}\\
+\cvtag{Language Integrated Query (LINQ)}\\
+\cvtag{JSON Web Token (JWT)}\\
+\cvtag{Microsoft Azure}\\
+\cvtag{Object-Oriented Programming (OOP)}\\
+\cvtag{Database Systems}\\
+\cvtag{Clean Code}
+\cvtag{Unit Testing}\\
+\cvtag{Software Engineering Practices}\\
+\cvtag{Microservices}
+\cvtag{Cloud Computing}\\
+\cvtag{Git}
+\cvtag{Unix / Linux}\\
 
 \cvsection{Certifications}
 
 \cvachievement{\faCode}{\href{https://icpc.global/ICPCID/0B2QPKFH8JMG}{ICPCID}}{}
-
-\cvachievement{\faHeartbeat}{\href{https://drive.google.com/file/d/1Gmcf33B4_rAJ-FqTkQXJ2-6kYhJiofP3/view?usp=sharing}{Database Fundamentals}}{}
-
-\cvachievement{\faTrophy}{\href{https://drive.google.com/file/d/1hkGmHOcu0o5RtP1xld4zJANnbUo3VLAn/view?usp=sharing}{Computer Network Fundamentals}}{}
-
-\cvachievement{\faHeartbeat}{\href{https://www.coursera.org/account/accomplishments/certificate/7LCUGZHAPXEW}{Cloud Computing Basics (Cloud 101)}}{}
 
 \cvachievement{\faTrophy}{\href{https://www.coursera.org/account/accomplishments/certificate/TLFB2AJCZ2TT}{Technical Support Fundamentals}}{}
 
@@ -245,57 +236,13 @@ A platform for memorizing and reviewing the Noble Quran and learning the provisi
 
 \cvachievement{\faHeartbeat}{\href{https://www.coursera.org/account/accomplishments/certificate/2HUDKX5FU5MH}{English for Career Development}}{}
 
-\newpage
-
-\cvsection{Skills}
-
-\cvskill{C\#}{5}
-
-\divider
-
-\cvtag{ASP.NET Core MVC}\\
-\cvtag{ASP.NET Core Web API}\\
-\cvtag{ASP.NET Core SignalR}\\
-\cvtag{Entity Framework Core}\\
-\cvtag{Language Integrated Query (LINQ)}\\
-\cvtag{JSON Web Token (JWT)}\\
-\cvtag{Microsoft Azure}\\
-
-\divider
-
-\cvskill{Problem Solving}{4}
-
-\divider
-
-\cvskill{Data Structures}{4}
-
-\divider
-
-\cvskill{Algorithms}{3}
-
-\divider
-
-\cvskill{SQL}{4}
-
-\divider
-
-\cvtag{Object-Oriented Programming (OOP)}\\
-\cvtag{Database Systems}\\
-\cvtag{Clean Code}\\
-\cvtag{Software Engineering Practices}\\
-\cvtag{Unit Testing}\\
-\cvtag{Microservices}\\
-\cvtag{Cloud Computing}\\
-\cvtag{Git}\\
-\cvtag{Unix / Linux}\\
-
 \cvsection{Languages}
 
-\cvskill{Arabic}{5}
+\cvskill{Arabic}{4}
 
 \divider
 
-\cvskill{English}{4}
+\cvskill{English}{3}
 
 % \cvsection{Referees}
 
