@@ -98,11 +98,11 @@
 \colorlet{tagline}{accent}
 % Renamed or added v1.7
 \newcommand{\cvItemMarker}{{\small\textbullet}}
-\newcommand{\cvRatingMarker}{\faCircle}
+\newcommand{\cvRatingMarker}{}
 \let\itemmarker\cvItemMarker      % for backward compatibility
 \let\ratingmarker\cvRatingMarker  % for backward compatibility
-\newcommand{\cvDateMarker}{\faCalendar[regular]}
-\newcommand{\cvLocationMarker}{\faMapMarker}
+\newcommand{\cvDateMarker}{\faCalendar*[regular]}
+\newcommand{\cvLocationMarker}{\faMapMarker*}
 \newcommand{\locationname}{Location}
 \newcommand{\datename}{Date}
 
@@ -254,10 +254,10 @@
 }
 \let\photo\photoR
 
-\newcommand{\namefont}{\Huge\bfseries}
-\newcommand{\taglinefont}{\large\bfseries}
+\newcommand{\namefont}{\Huge\rmfamily\bfseries}
+\newcommand{\taglinefont}{\huge\bfseries}
 \newcommand{\personalinfofont}{\footnotesize\bfseries}
-\newcommand{\cvsectionfont}{\LARGE\bfseries}
+\newcommand{\cvsectionfont}{\LARGE\rmfamily\bfseries}
 \newcommand{\cvsubsectionfont}{\large\bfseries}
 
 \newcommand{\makecvheader}{%
