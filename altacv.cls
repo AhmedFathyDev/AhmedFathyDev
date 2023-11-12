@@ -98,7 +98,7 @@
 \colorlet{tagline}{accent}
 % Renamed or added v1.7
 \newcommand{\cvItemMarker}{{\small\textbullet}}
-\newcommand{\cvRatingMarker}{}
+\newcommand{\cvRatingMarker}{}    % \faCircle
 \let\itemmarker\cvItemMarker      % for backward compatibility
 \let\ratingmarker\cvRatingMarker  % for backward compatibility
 \newcommand{\cvDateMarker}{\faCalendar*[regular]}
