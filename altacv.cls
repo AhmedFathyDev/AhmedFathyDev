@@ -209,6 +209,8 @@
 \NewInfoField{twitter}{\faTwitter}[https://twitter.com/]
 \NewInfoField{linkedin}{\faLinkedin}[https://linkedin.com/in/]
 \NewInfoField{github}{\faGithub}[https://github.com/]
+%\NewInfoField{leetcode}{\faLeetcode}[https://leetcode.com/]
+\NewInfoField{hackerrank}{\faHackerrank}[https://www.hackerrank.com/profile/]
 % v1.?? Use fontawesome5 for Orcid symbol
 \NewInfoField{orcid}{\faOrcid}[https://orcid.org/]
 \NewInfoField{location}{\cvLocationMarker}
@@ -256,7 +258,7 @@
 
 \newcommand{\namefont}{\Huge\rmfamily\bfseries}
 \newcommand{\taglinefont}{\huge\bfseries}
-\newcommand{\personalinfofont}{\footnotesize\bfseries}
+\newcommand{\personalinfofont}{\normalsize\bfseries}
 \newcommand{\cvsectionfont}{\LARGE\rmfamily\bfseries}
 \newcommand{\cvsubsectionfont}{\large\bfseries}
 
