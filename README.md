@@ -35,7 +35,7 @@
 * 🌱 **Currently learning**: `Design Patterns`.
 * 💬 **Ask me about**: `.NET`.
 * 📫 **How to reach me**: Catch and follow me from the `above links 👆`, in addition to `follow me here`.
-* 🤔 **Currently open to work**: [RESUME](https://github.com/SWE-Ahmed-Osman/SWE-Ahmed-Osman/blob/main/RESUME.pdf).
+* 🤔 **Currently open to work**: [RESUME](https://raw.githubusercontent.com/SWE-Ahmed-Osman/SWE-Ahmed-Osman/main/RESUME.pdf).
 
 
 <!-- <h1 align="center">Skills</h1>
