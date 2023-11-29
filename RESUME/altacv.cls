@@ -47,6 +47,7 @@
 \RequirePackage{scrlfile}
 \RequirePackage{xparse}
 
+
 %% v1.1.5: added for convenience
 \newif\ifxetexorluatex
 \ifxetex
@@ -146,7 +147,7 @@
 %% v1.6: Use accsupp so that when copying/pasting the icon from PDF to a text
 %%       file, the icon name is pasted
 %% v1.7: Some tweaks/corrections so that accsupp is for icons only
-%% v1.7.1: Bugfix to support some symbol commands e.g. academicons commands
+%% v1.7.1: Bugfix to support some symbol commands e.g. academicons commands 
 \ExplSyntaxOn
 \NewDocumentCommand{\printinfo}{m m o}{%
   \IfNoValueTF{#3}{%
