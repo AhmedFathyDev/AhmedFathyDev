@@ -20,8 +20,6 @@
 
 **Strong knowledge of computer science, good in Object-Oriented Programming, Data Structures, Algorithms, Database Systems, Design Patterns, and Problem-Solving.**
 
-**Competed a lot in college in programming competitions like ECPC and enjoyed participating with my colleagues and mentors.**
-
 **Passionate about learning .NET, Back-End technologies, DevOps, Web 3, Blockchain, Linux, Virtualization, and Cloud Computing.**
 
 **Detailed-Oriented, responsible, committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self-quick learner, self-motivated, and social.**
