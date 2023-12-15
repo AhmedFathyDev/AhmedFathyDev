@@ -58,7 +58,7 @@
     <h1>Contribution Activity</h1>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SWE-Ahmed-Osman&theme=dark&date_format=d-m-Y&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" width="500">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/?username=SWE-Ahmed-Osman&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" width="500">
+    <img src="https://github-readme-stats.vercel.app/api/?username=SWE-Ahmed-Osman&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" width="500">
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SWE-Ahmed-Osman&layout=donut&theme=dark&title_color=6FDA44" width="500">
 </div>
