@@ -5,8 +5,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋+I'm+Ahmed;Back-End+Engineer+@+Axapta.+Ltd;Freelancer+Software+Engineer;.NET+Engineer;Open-Source+Enthusiast">
 </div>
 <div align="center">
-    <a href="https://profile.indeed.com/p/ahmedo-pkgw238"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin"></a>
-    <a href="https://www.linkedin.com/in/SWE-Ahmed-Osman/"><img src="https://img.shields.io/badge/Indeed-003A9B?style=flat&logo=indeed"></a>
+    <a href="https://www.linkedin.com/in/SWE-Ahmed-Osman/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin"></a>
+    <a href="https://profile.indeed.com/p/ahmedo-pkgw238"><img src="https://img.shields.io/badge/Indeed-003A9B?style=flat&logo=indeed"></a>
     <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580748673863680"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork"></a>
     <a href="https://stackoverflow.com/users/11837259/ahmed-fathy"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white"></a>
     <a href="https://t.me/SWE_Ahmed_Osman"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram"></a>
