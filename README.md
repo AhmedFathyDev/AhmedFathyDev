@@ -2,7 +2,7 @@
     <img src="GitHub.png" height="200">
 </div>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Ahmed;Back-End+Engineer+@+Axapta.+Ltd;Freelancer+Software+Engineer;.NET+Engineer;Open-Source+Enthusiast">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋+I'm+Ahmed;Back-End+Engineer+@+Axapta.+Ltd;Freelancer+Software+Engineer;.NET+Engineer;Open-Source+Enthusiast">
 </div>
 <div align="center">
     <a href="https://profile.indeed.com/p/ahmedo-pkgw238"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin"></a>
