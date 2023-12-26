@@ -7,6 +7,8 @@
 <div align="center">
     <a href="https://raw.githubusercontent.com/SWE-Ahmed-Osman/SWE-Ahmed-Osman/main/RESUME/RESUME.pdf"><img src="https://img.shields.io/badge/SWE-RESUME-6FDA44"></a>
     <a href="https://www.linkedin.com/in/SWE-Ahmed-Osman/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin"></a>
+    <a href="https://leetcode.com/ahmedfathydev/"><img src="https://img.shields.io/badge/LeetCode-070707?logo=leetcode"></a>
+    <a href="https://www.hackerrank.com/profile/ahmedfathydev"><img src="https://img.shields.io/badge/HackerRank-000000?logo=hackerrank"></a>
     <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580748673863680"><img src="https://img.shields.io/badge/Upwork-494949?logo=upwork"></a>
     <a href="https://stackoverflow.com/users/11837259/ahmed-fathy"><img src="https://img.shields.io/badge/Stack Overflow-f48024?logo=stackoverflow&logoColor=white"></a>
     <a href="https://t.me/SWE_Ahmed_Osman"><img src="https://img.shields.io/badge/Telegram-0088cc?logo=telegram"></a>
