@@ -29,10 +29,10 @@
 
 * 🔭 **Looking to collaborate on**: [JobWebsites](https://gist.github.com/SWE-Ahmed-Osman/950f28910c9a3804c8d39d8d5f042916) and [FreelanceWebsites](https://gist.github.com/SWE-Ahmed-Osman/0861a0a926bfd5c1b0e85dd827c1efe9).
 
+* 🔭 **Looking to collaborate on**: [LeetCode-Solutions](https://github.com/SWE-Ahmed-Osman/LeetCode-Solutions), [HackerRank-Solutions](https://github.com/SWE-Ahmed-Osman/HackerRank-Solutions), and [Codeforces-Solutions](https://github.com/SWE-Ahmed-Osman/Codeforces-Solutions).
 
 <!-- * 🔭 **I’m currently working on**: [BookStore.MVC](https://github.com/SWE-Ahmed-Osman/BookStore.MVC).
 * 🔭 **Looking to collaborate on**: [Fathy.Common](https://github.com/SWE-Ahmed-Osman/Fathy.Common).
-* 🔭 **Looking to collaborate on**: [LeetCode-Solutions](https://github.com/SWE-Ahmed-Osman/LeetCode-Solutions), [HackerRank-Solutions](https://github.com/SWE-Ahmed-Osman/HackerRank-Solutions), and [Codeforces-Solutions](https://github.com/SWE-Ahmed-Osman/Codeforces-Solutions).
 * 🌱 **Currently learning**: `Object-Oriented`.
 * 💬 **Ask me about**: `.NET`.
 * 📫 **How to reach me**: Catch and follow me from the `above links 👆`, in addition to `follow me here`.
