@@ -27,6 +27,8 @@
 
 * **Detailed-Oriented, responsible, committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self-quick learner, self-motivated, and social.**
 
+* 👨‍🏫 **Currently studying**: <a href="https://github.com/ossu/computer-science"><img src="https://img.shields.io/badge/OSSU-computer--science-blue"></a>
+
 * 🔭 **Looking to collaborate on**: [JobWebsites](https://gist.github.com/SWE-Ahmed-Osman/950f28910c9a3804c8d39d8d5f042916) and [FreelanceWebsites](https://gist.github.com/SWE-Ahmed-Osman/0861a0a926bfd5c1b0e85dd827c1efe9).
 
 <!-- * 🔭 **Looking to collaborate on**: [LeetCode-Solutions](https://github.com/SWE-Ahmed-Osman/LeetCode-Solutions), [HackerRank-Solutions](https://github.com/SWE-Ahmed-Osman/HackerRank-Solutions), and [Codeforces-Solutions](https://github.com/SWE-Ahmed-Osman/Codeforces-Solutions).
