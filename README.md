@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?color=6FDA44&size=40&center=true&vCenter=true&width=1000&height=50&lines=Hi+👋+I+am+Ahmed;Back-End+Engineer+@+Axapta.+Ltd;Freelancer+Back-End+Engineer;.NET+Engineer;Open-Source+Enthusiast">
 </div>
 <div align="center">
-    <a href="https://raw.githubusercontent.com/SWE-Ahmed-Osman/SWE-Ahmed-Osman/main/RESUME/RESUME.pdf"><img src="https://img.shields.io/badge/SWE-RESUME-6FDA44"></a>
+    <a href="https://raw.githubusercontent.com/SWE-Ahmed-Osman/SWE-Ahmed-Osman/master/RESUME/RESUME.pdf"><img src="https://img.shields.io/badge/SWE-RESUME-6FDA44"></a>
     <a href="https://www.linkedin.com/in/SWE-Ahmed-Osman/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin"></a>
     <a href="https://leetcode.com/ahmedfathydev/"><img src="https://img.shields.io/badge/LeetCode-070707?logo=leetcode"></a>
     <a href="https://www.hackerrank.com/profile/ahmedfathydev"><img src="https://img.shields.io/badge/HackerRank-000000?logo=hackerrank"></a>
