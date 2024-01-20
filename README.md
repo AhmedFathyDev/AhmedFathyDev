@@ -9,7 +9,7 @@
     <a href="https://www.linkedin.com/in/SWE-Ahmed-Osman/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin"></a>
     <a href="https://leetcode.com/ahmedfathydev/"><img src="https://img.shields.io/badge/LeetCode-070707?logo=leetcode"></a>
     <a href="https://www.hackerrank.com/profile/ahmedfathydev"><img src="https://img.shields.io/badge/HackerRank-000000?logo=hackerrank"></a>
-    <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580748673863680"><img src="https://img.shields.io/badge/Upwork-494949?logo=upwork"></a>
+    <a href="https://www.upwork.com/workwith/ahmedfathydev"><img src="https://img.shields.io/badge/Upwork-494949?logo=upwork"></a>
     <a href="https://stackoverflow.com/users/11837259/ahmed-fathy"><img src="https://img.shields.io/badge/Stack Overflow-f48024?logo=stackoverflow&logoColor=white"></a>
     <a href="https://t.me/SWE_Ahmed_Osman"><img src="https://img.shields.io/badge/Telegram-0088cc?logo=telegram"></a>
 </div>
@@ -25,7 +25,7 @@
 
 * **Detailed-oriented, responsible, and committed engineer with a get-it-done, on-time, and high-quality product spirit. Self-quick learner, self-motivated, and social.**
 
-* 👨‍🏫 **Currently studying at**: <a href="https://github.com/ossu/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a>
+* 👨‍🏫 **Currently studying at**: <a href="https://github.com/ossu/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue"></a>
 
 * 🔭 **Looking to collaborate on**: [JobWebsites](https://gist.github.com/SWE-Ahmed-Osman/950f28910c9a3804c8d39d8d5f042916) and [FreelanceWebsites](https://gist.github.com/SWE-Ahmed-Osman/0861a0a926bfd5c1b0e85dd827c1efe9).
 
