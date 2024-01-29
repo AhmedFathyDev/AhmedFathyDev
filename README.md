@@ -17,7 +17,7 @@
 
 <h1 align="center">Summary</h1>
 
-* **One year of experience in Back-End Development and building web applications. Specialist in .NET Core Frameworks.**
+* **One year of experience in Back-End Development and building web applications. Specialist in .NET Core Frameworks**
 
 * **Strong knowledge of computer science, good in Object-Oriented Programming, Data Structures, Algorithms, Database Systems, Design Patterns, and Problem-Solving.**
 
