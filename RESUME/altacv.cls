@@ -210,7 +210,8 @@
 \NewInfoField{twitter}{\faTwitter}[https://twitter.com/]
 \NewInfoField{linkedin}{\faLinkedin}[https://linkedin.com/in/]
 \NewInfoField{github}{\faGithub}[https://github.com/]
-%\NewInfoField{leetcode}{\faLeetcode}[https://leetcode.com/]
+% \NewInfoField{upwork}{}[https://www.upwork.com/freelancers/]
+% \NewInfoField{leetcode}{}[https://leetcode.com/]
 \NewInfoField{hackerrank}{\faHackerrank}[https://www.hackerrank.com/profile/]
 % v1.?? Use fontawesome5 for Orcid symbol
 \NewInfoField{orcid}{\faOrcid}[https://orcid.org/]
