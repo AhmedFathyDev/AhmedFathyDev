@@ -19,7 +19,7 @@
 
 * **One year of experience in Back-End Development and building web applications. Specialist in .NET Core Frameworks.**
 
-* **Strong knowledge of computer science, good in Object-Oriented Programming, Data Structures, Algorithms, Database Systems, Design Patterns, and Problem-Solving.**
+* **Strong knowledge of computer science, good in Object-Oriented, Data Structures, Algorithms, Database Systems, Design Patterns, and Problem-Solving.**
 
 * **Passionate about learning .NET, Back-End technologies, DevOps, Web 3, Blockchain, Linux, Virtualization, and Cloud Computing.**
 
