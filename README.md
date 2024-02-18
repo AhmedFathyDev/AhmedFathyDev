@@ -17,13 +17,13 @@
 
 <h1 align="center">Summary</h1>
 
-* **One year of experience in Back-End Development and building web applications. Specialist in .NET Core Frameworks.**
+* **Two years of experience in web application development using .NET Core Framework.**
 
-* **Strong knowledge of computer science, good in Object-Oriented, Data Structures, Algorithms, Database Systems, Design Patterns, and Problem-Solving.**
+* **Proficient in Object-Oriented Programming, Data Structures, Algorithms, Design Patterns, and Problem Solving.**
 
-* **Passionate about learning .NET, Back-End technologies, DevOps, Web 3, Blockchain, Linux, Virtualization, and Cloud Computing.**
+* **Eager learner passionate about advancing skills in .NET, Back-End technologies, DevOps, and emerging trends like Web 3, Blockchain, Linux, and Cloud Computing.**
 
-* **Detailed-oriented, responsible, and committed engineer with a get-it-done, on-time, and high-quality product spirit. Self-quick learner, self-motivated, and social.**
+* **Detail-oriented and committed engineer known for on-time delivery of high-quality products. Self-motivated, quick learner, and team player.**
 
 * 👨‍🏫 **Currently studying at**: <a href="https://github.com/ossu/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue"></a>
 
