@@ -34,7 +34,7 @@
 * 🔭 **I’m currently working on**: [BookStore.MVC](https://github.com/SWE-Ahmed-Osman/BookStore.MVC).
 * 🔭 **Looking to collaborate on**: [Fathy.Common](https://github.com/SWE-Ahmed-Osman/Fathy.Common).
 * 🌱 **Currently learning**: `Object-Oriented`.
-* 💬 **Ask me about**: `.NET`.
+* 💬 **Ask me about**: `.NET Core`.
 * 📫 **How to reach me**: Catch and follow me from the `above links 👆`, in addition to `follow me here`.
 * 🤔 **Currently open to work**: [RESUME](https://raw.githubusercontent.com/SWE-Ahmed-Osman/SWE-Ahmed-Osman/main/RESUME.pdf). -->
 
