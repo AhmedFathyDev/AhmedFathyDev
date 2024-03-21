@@ -11,7 +11,7 @@
     <a href="https://www.hackerrank.com/profile/ahmedfathydev"><img src="https://img.shields.io/badge/HackerRank-000000?logo=hackerrank"></a>
     <a href="https://www.upwork.com/freelancers/sweahmedosman"><img src="https://img.shields.io/badge/Upwork-494949?logo=upwork"></a>
     <a href="https://stackoverflow.com/users/11837259/ahmed-fathy"><img src="https://img.shields.io/badge/Stack Overflow-f48024?logo=stackoverflow&logoColor=white"></a>
-    <a href="https://t.me/SWE_Ahmed_Osman"><img src="https://img.shields.io/badge/Telegram-0088cc?logo=telegram"></a>
+    <a href="https://t.me/AhmedFathyDev"><img src="https://img.shields.io/badge/Telegram-0088cc?logo=telegram"></a>
 </div>
 
 
