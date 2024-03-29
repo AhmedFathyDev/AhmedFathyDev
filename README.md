@@ -17,7 +17,7 @@
 
 <h1 align="center">Summary</h1>
 
-* **Two years of experience in web application development using .NET Core Framework.**
+* **One year of experience in web application development using .NET Core Framework.**
 
 * **Proficient in Object-Oriented Programming, Data Structures, Algorithms, Design Patterns, and Problem Solving.**
 
