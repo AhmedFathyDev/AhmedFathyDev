@@ -90,6 +90,7 @@
 \RequirePackage{xcolor}
 
 \colorlet{accent}{blue!70!black}
+% \colorlet{accent}{black}
 \colorlet{emphasis}{black}
 \colorlet{heading}{black}
 \colorlet{headingrule}{black}
@@ -147,7 +148,7 @@
 %% v1.6: Use accsupp so that when copying/pasting the icon from PDF to a text
 %%       file, the icon name is pasted
 %% v1.7: Some tweaks/corrections so that accsupp is for icons only
-%% v1.7.1: Bugfix to support some symbol commands e.g. academicons commands
+%% v1.7.1: Bugfix to support some symbol commands e.g. academicons commands 
 \ExplSyntaxOn
 \NewDocumentCommand{\printinfo}{m m o}{%
   \IfNoValueTF{#3}{%
@@ -269,9 +270,9 @@
     \altacv@left@photos\hfill%
     \begin{minipage}{\dimexpr\linewidth-\altacv@photos@width}%
     \raggedright%
-    {\namefont\color{name}\MakeUppercase{\@name}\par}
+    {\namefont\color{name}\centering\MakeUppercase{\@name}\par}
     \medskip
-    {\taglinefont\color{tagline}\@tagline\par}
+    {\taglinefont\color{tagline}\centering\@tagline\par}
     \medskip
     {\personalinfofont\@personalinfo\par}
     \end{minipage}\hfill%
@@ -282,22 +283,23 @@
 \renewenvironment{quote}{\color{accent}\itshape\large}{\par}
 
 \newcommand{\cvsection}[2][]{%
-  \nointerlineskip\bigskip%  %% bugfix in v1.6.2
+  \bigskip%  %% bugfix in v1.6.2
   \ifstrequal{#1}{}{}{\marginpar{\vspace*{\dimexpr1pt-\baselineskip}\raggedright\input{#1}}}%
   {\color{heading}\cvsectionfont\MakeUppercase{#2}}\\[-1ex]%
-  {\color{headingrule}\rule{\linewidth}{2pt}\par}\medskip
+  {\color{headingrule}\rule{\linewidth}{2pt}\par}
 }
 
 \newcommand{\cvsubsection}[1]{%
-  \smallskip%
-  {\color{subheading}\cvsubsectionfont{#1}\par}\medskip
+    \medskip
+    {\color{subheading}\cvsubsectionfont{#1}\par}
 }
 
 % v1.1.4: fixes inconsistent font size
 % v1.7: adds accsupp ActualText for location and date markers
-\newcommand{\cvevent}[4]{%
-  {\large\color{emphasis}#1\par}
-  \smallskip\normalsize
+\newcommand{\cvevent}[4]{
+  \medskip
+  {\large\color{emphasis}#1}
+  \normalsize
   \ifstrequal{#2}{}{}{
   \textbf{\color{accent}#2}\par
   \smallskip}
@@ -311,16 +313,15 @@
       {\BeginAccSupp{method=pdfstringdef,ActualText={\locationname:}}\cvLocationMarker\EndAccSupp{}%
         ~#4}%
     }}\par
-  \medskip\normalsize
+  \smallskip\normalsize
 }
 
 % v1.7: adds accsupp for the icon as well
-\newcommand{\cvachievement}[3]{%
+\newcommand{\cvachievement}[2]{%
   \begin{tabularx}{\linewidth}{@{}p{2em} @{\hspace{1ex}} >{\raggedright\arraybackslash}X@{}}
   \multirow{2}{*}{\Large\color{accent}\BeginAccSupp{method=escape,ActualText={#1: }}#1\EndAccSupp{}} & \bfseries\textcolor{emphasis}{#2}\\
-  & #3
   \end{tabularx}%
-  \smallskip
+  \medskip
 }
 
 \newcommand{\cvtag}[1]{%
@@ -329,15 +330,16 @@
 
 % v1.6: Use accsupp so that the actual numeric value is copied/pasted
 %       and also support 0.5, 1.5, 2.5, 3.5, 4.5
-\newcommand{\cvskill}[2]{%
+\newcommand{\cvskill}[1]{%
   \textcolor{emphasis}{\textbf{#1}}\hfill
-  \BeginAccSupp{method=plain,ActualText={#2}}
-  \foreach \x in {1,...,5}{%
-    \ifdimequal{\x pt - #2 pt}{0.5pt}%
-    {\clipbox*{0pt -0.25ex {.5\width} {\totalheight}}{\color{accent}\cvRatingMarker}%
-     \clipbox*{{.5\width} -0.25ex {\width} {\totalheight}}{\color{body!30}\cvRatingMarker}}
-    {\ifdimgreater{\x bp}{#2 bp}{\color{body!30}}{\color{accent}}\cvRatingMarker}%
-  }\EndAccSupp{}\par%
+  \smallskip
+%   \BeginAccSupp{method=plain,ActualText={#2}}
+%   \foreach \x in {1,...,5}{%
+%     \ifdimequal{\x pt - #2 pt}{0.5pt}%
+%     {\clipbox*{0pt -0.25ex {.5\width} {\totalheight}}{\color{accent}\cvRatingMarker}%
+%      \clipbox*{{.5\width} -0.25ex {\width} {\totalheight}}{\color{body!30}\cvRatingMarker}}
+%      {\ifdimgreater{\x bp}{#2 bp}{\color{body!30}}{\color{accent}}\cvRatingMarker}%
+%   }\EndAccSupp{}\par%
 }
 
 % Adapted from @Jake's answer at http://tex.stackexchange.com/a/82729/226
@@ -396,14 +398,13 @@
     \endgroup
 }
 
-\newcommand{\cvref}[3]{%
-  \smallskip
+\newcommand{\cvref}[2]{%
   \textcolor{emphasis}{\textbf{#1}}\par
   \begin{description}[font=\color{accent},style=multiline,leftmargin=1.35em,align=left]
-  \item[\small\normalfont\emailsymbol] #2
-  \item[\small\normalfont\mailaddresssymbol] #3
+  \item[\small\normalfont\mailaddresssymbol] #2
+  % \item[\small\normalfont\emailsymbol] #3
   \end{description}
-%   \medskip
+  \smallskip
 }
 
 \newenvironment{cvcolumn}[1]{\begin{minipage}[t]{#1}\raggedright}{\end{minipage}}
