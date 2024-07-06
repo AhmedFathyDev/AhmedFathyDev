@@ -2,7 +2,7 @@
     <img src="GitHub.png" height="200">
 </div>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=6FDA44&size=40&center=true&vCenter=true&width=1000&height=50&lines=Hi+👋+I+am+Ahmed;Back-End+Engineer+@+Axapta.+Ltd;Freelancer+.NET+Engineer;Open-Source+Enthusiast">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=6FDA44&size=40&center=true&vCenter=true&width=1000&height=50&lines=Hi+👋+I+am+Ahmed;Back-End+Engineer+@+AxaptaIT;Freelancer+.NET+Engineer;Open-Source+Enthusiast">
 </div>
 <div align="center">
     <a href="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/master/RESUME/RESUME.pdf"><img src="https://img.shields.io/badge/SWE-RESUME-6FDA44"></a>
