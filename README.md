@@ -12,6 +12,7 @@
     <a href="https://www.upwork.com/freelancers/sweahmedosman"><img src="https://img.shields.io/badge/Upwork-494949?logo=upwork"></a>
     <a href="https://stackoverflow.com/users/11837259/ahmed-fathy"><img src="https://img.shields.io/badge/Stack Overflow-f48024?logo=stackoverflow&logoColor=white"></a>
     <a href="https://t.me/AhmedFathyDev"><img src="https://img.shields.io/badge/Telegram-0088cc?logo=telegram"></a>
+    <a href="https://x.com/AhmedFathyDev"><img src="https://img.shields.io/badge/X-000000?logo=x"></a>
 </div>
 
 
