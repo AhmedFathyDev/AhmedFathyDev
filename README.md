@@ -18,11 +18,11 @@
 
 <h1 align="center">Summary</h1>
 
-* **One year of experience in web application development using .NET Core Framework.**
+* **+2 years of experience in web application development using .NET Core Framework.**
 
 * **Proficient in Object-Oriented Programming, Data Structures, Algorithms, Design Patterns, and Problem Solving.**
 
-* **Eager learner passionate about advancing skills in .NET, Back-End technologies, DevOps, and emerging trends like Web 3, Blockchain, Linux, and Cloud Computing.**
+* **Eager learner passionate about advancing skills in .NET, Back-End technologies, DevOps, and emerging trends like Web 3, Linux, and Cloud Computing.**
 
 * **Detail-oriented and committed engineer known for on-time delivery of high-quality products. Self-motivated and quick learner.**
 
