@@ -22,8 +22,6 @@
 
 * **Proficient in Object-Oriented Programming, Data Structures, Algorithms, Design Patterns, and Problem Solving.**
 
-* **Eager learner passionate about advancing skills in .NET, Back-End technologies, DevOps, and emerging trends like Web 3, Linux, and Cloud Computing.**
-
 * **Detail-oriented and committed engineer known for on-time delivery of high-quality products. Self-motivated and quick learner.**
 
 * 👨‍🏫 **Currently studying at**: <a href="https://github.com/ossu/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue"></a>
